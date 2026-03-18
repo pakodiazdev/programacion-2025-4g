@@ -1,4 +1,4 @@
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 4](../clase%2004/resumen-2026-03-06.md) &nbsp;·&nbsp; [Clase 6 →](../clase%2006/resumen-2025-03-10.md)
+[← README](../../../README.md) · [← Clase 4](../clase%2004/resumen.md) · [Clase 6 →](../clase%2006/resumen.md)
 
 ---
 
@@ -213,4 +213,4 @@ Estos conceptos servirán como base para avanzar hacia el **flujo de los program
 
 ---
 
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 4](../clase%2004/resumen-2026-03-06.md) &nbsp;·&nbsp; [Clase 6 →](../clase%2006/resumen-2025-03-10.md)
+[← README](../../../README.md) · [← Clase 4](../clase%2004/resumen.md) · [Clase 6 →](../clase%2006/resumen.md)

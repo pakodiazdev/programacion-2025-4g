@@ -1,4 +1,4 @@
-[← README](../../../README.md) &nbsp;·&nbsp; [Clase 2 →](../clase%2002/resumen-2026-03-03.md)
+[← README](../../../README.md) · [Clase 2 →](../clase%2002/resumen.md)
 
 ---
 
@@ -185,4 +185,4 @@ Una vez comprendidas estas bases, se avanzará hacia el desarrollo de programas 
 
 ---
 
-[← README](../../../README.md) &nbsp;·&nbsp; [Clase 2 →](../clase%2002/resumen-2026-03-03.md)
+[← README](../../../README.md) · [Clase 2 →](../clase%2002/resumen.md)

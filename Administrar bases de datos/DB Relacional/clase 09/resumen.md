@@ -1,46 +1,39 @@
-
-[← Clase 8](../clase%2008/resumen.md) · [Clase 10 →](../clase%2010/resumen.md)
-
----
-
-# Clase 09 — Comentarios, else, recordatorio de Git y prácticas de if/else
-Materia: Base de datos relacional  
-Duración total: 4 horas  
-
-- 2 horas en salón  
-- 2 horas en laboratorio  
+[← README](../../../README.md) · [← Clase 8](../clase%2008/resumen.md) · [Clase 10 →](../clase%2010/resumen.md)
 
 ---
 
-# Objetivo de la sesión
+# Clase 09 — Comentarios, else y prácticas de if/else (PHP CLI)
+**Fecha:** 18 de marzo  
+**Duración total:** 2 horas (1 hr tema en aula + 1 hr práctica)
+
+---
+
+## 🎯 Objetivo de la sesión
 
 1. Comprender qué son los **comentarios en programación** y para qué se utilizan.
 2. Reforzar el uso de **if** e introducir la estructura **else**.
-3. Practicar la toma de decisiones en programas.
-4. Recordar los **conceptos básicos de Git** antes de comenzar a utilizar repositorios.
-5. Respaldar prácticas del curso utilizando **GitHub**.
+3. Practicar la toma de decisiones en programas con ejercicios cortos.
 
 ---
 
-# Distribución del tiempo
+# ⏱️ Estructura de la clase
+
+## 📊 Resumen de distribución del tiempo
 
 | Tema | Tiempo |
 |-----|------|
-| Comentarios en programación | 15 min |
-| Repaso de if | 15 min |
-| Introducción a else | 20 min |
+| Comentarios en programación | 10 min |
+| Repaso de if | 10 min |
+| Introducción a else | 15 min |
 | Ejemplos guiados | 20 min |
-| Recordatorio de conceptos básicos de Git | 15 min |
-| Ejercicios conceptuales | 10 min |
-| Crear repositorio y clonarlo | 25 min |
-| Integrar prácticas anteriores | 20 min |
-| Nuevas prácticas | 40 min |
+| Explicación de práctica y dudas | 5 min |
+| Practicas de laboratorio (31 a 34) | 55 min |
 
 ---
 
-# Parte 1 — Comentarios en programación
+## 📝 Comentarios en programación
 
-Tiempo estimado: 15 minutos
+`⏱️ Tiempo 10 min`
 
 Un **comentario** es texto dentro del código que sirve para explicar lo que hace el programa.
 
@@ -54,17 +47,23 @@ Sirven para:
 
 ## Comentario de una línea
 
+`clase-09/e01-comentario-una-linea.php:`
+
 ```php
 // Este es un comentario
 ```
 
 ## Comentario después de una instrucción
 
+`clase-09/e02-comentario-despues-instruccion.php:`
+
 ```php
 echo "Hola"; // imprime texto
 ```
 
 ## Comentario de varias líneas
+
+`clase-09/e03-comentario-varias-lineas.php:`
 
 ```php
 /*
@@ -80,6 +79,8 @@ Se recomienda iniciar cada práctica con un comentario indicando:
 
 Ejemplo:
 
+`clase-09/e04-comentario-encabezado-practica.php:`
+
 ```php
 // Practica 31
 // Determinar si un numero es positivo o negativo
@@ -87,13 +88,15 @@ Ejemplo:
 
 ---
 
-# Parte 2 — Repaso de la estructura if
+## 🔄 Repaso de la estructura `if`
 
-Tiempo estimado: 15 minutos
+`⏱️ Tiempo 10 min`
 
 La estructura `if` permite ejecutar código **si una condición se cumple**.
 
 Ejemplo:
+
+`clase-09/e05-repaso-if.php:`
 
 ```php
 <?php
@@ -109,13 +112,15 @@ Si la condición es verdadera, el bloque se ejecuta.
 
 ---
 
-# Parte 3 — Introducción a else
+## ⚙️ Introducción a `else`
 
-Tiempo estimado: 20 minutos
+`⏱️ Tiempo 15 min`
 
 `else` permite indicar qué hacer cuando la condición **no se cumple**.
 
 Estructura general:
+
+`clase-09/e06-estructura-if-else.php:`
 
 ```php
 <?php
@@ -131,7 +136,7 @@ Solo uno de los dos bloques se ejecuta.
 
 ---
 
-# Ejemplo conceptual
+### 🧠 Ejemplo conceptual
 
 ¿Llueve?
 
@@ -142,11 +147,13 @@ Esto representa cómo un programa puede **tomar decisiones**.
 
 ---
 
-# Parte 4 — Ejemplos de código
+## 💻 Ejemplos de código
 
-Tiempo estimado: 20 minutos
+`⏱️ Tiempo 20 min`
 
 ## Mayor de edad
+
+`clase-09/e07-mayor-edad.php:`
 
 ```php
 <?php
@@ -162,6 +169,8 @@ if ($edad >= 18) {
 
 ## Número positivo o negativo
 
+`clase-09/e08-numero-positivo-negativo.php:`
+
 ```php
 <?php
 
@@ -175,6 +184,8 @@ if ($numero > 0) {
 ```
 
 ## Calificación
+
+`clase-09/e09-calificacion.php:`
 
 ```php
 <?php
@@ -190,171 +201,33 @@ if ($calificacion >= 70) {
 
 ---
 
-# Parte 5 — Recordatorio de conceptos básicos de Git
+## 🧪 Ejercicios guiados previos a la práctica
 
-Tiempo estimado: 15 minutos
+`⏱️ Tiempo 5 min`
 
-Antes de comenzar el laboratorio se recuerda qué es **Git**.
+Resolver de forma rapida, en grupo:
 
-Git es un sistema que permite **guardar versiones del trabajo**.
+- edad para votar
+- número positivo o negativo
 
-Conceptos importantes:
-
-Repositorio  
-Lugar donde se guarda el proyecto.
-
-Commit  
-Registro de un cambio realizado en el proyecto.
-
-Push  
-Enviar los cambios al repositorio remoto.
-
-Repositorio remoto  
-Copia del proyecto almacenada en internet (GitHub).
-
-Flujo básico de trabajo:
-
-editar archivo  
-agregar cambios  
-crear commit  
-subir cambios
-
-Esto permite tener un **historial del trabajo realizado**.
+Estas consignas sirven como puente antes de comenzar las practicas individuales.
 
 ---
 
-# Parte 6 — Ejercicios conceptuales
+## 🧾 Práctica en clase
 
-Tiempo estimado: 10 minutos
+`⏱️ Tiempo 60 min`
 
-Resolver en grupo:
+En esta sesión la prioridad es completar las prácticas obligatorias y validar la lógica de decisión con `if/else`.
 
-edad para votar  
-número positivo o negativo  
-calificación aprobatoria  
-descuento en compras  
+[Ejercicios](ejercicios.md)
 
----
-
-# Laboratorio
+# Resumen
+<div align="center">
+    <img src="ifografia.png" width="500">
+</div>
 
 ---
 
-# Actividad 1 — Crear repositorio
+[← README](../../../README.md) · [← Clase 8](../clase%2008/resumen.md) · [Clase 10 →](../clase%2010/resumen.md)
 
-Nombre del repositorio:
-
-base-datos-relacional
-
----
-
-# Actividad 2 — Clonar repositorio
-
-Clonar el repositorio en Visual Studio Code.
-
----
-
-# Actividad 3 — Crear estructura
-
-```
-practicas/
-   01-hola-mundo
-   02-hola-soy
-   03-hola
-   04-suma-dos-numeros
-```
-
----
-
-# Actividad 4 — Integrar prácticas anteriores
-
-Copiar prácticas anteriores dentro del repositorio.
-
-Realizar **un commit por práctica**.
-
----
-
-# Nuevas prácticas — Clase 09
-
-La numeración continúa después de la práctica 30.
-
----
-
-# Prácticas obligatorias
-
-## Practica 31
-
-Programa que reciba un número.
-
-Si el número es mayor que 0 mostrar:
-
-Número positivo
-
-En caso contrario mostrar:
-
-Número cero o negativo
-
----
-
-## Practica 32
-
-Programa que reciba la edad de una persona.
-
-Si la edad es mayor o igual a 18 mostrar:
-
-Puede votar
-
-En caso contrario mostrar:
-
-No puede votar
-
----
-
-# Prácticas opcionales
-
-## Practica 33
-
-Programa que reciba una calificación.
-
-Si la calificación es mayor o igual a 70 mostrar:
-
-Aprobado
-
-En caso contrario mostrar:
-
-Reprobado
-
----
-
-## Practica 34
-
-Programa que reciba el total de una compra.
-
-Si el total es mayor o igual a 100 mostrar:
-
-Aplica descuento
-
-En caso contrario mostrar:
-
-No aplica descuento
-
----
-
-# Prácticas complementarias
-
-Practica 35 — número mayor que 10 o pequeño  
-Practica 36 — número igual a cero o diferente  
-Practica 37 — edad menor a 13 o mayor  
-Practica 38 — número mayor a 100 o menor  
-Practica 39 — temperatura mayor a 30 o no  
-Practica 40 — velocidad mayor a 60 o permitida  
-Practica 41 — edad mayor o igual a 65 o no  
-Practica 42 — número mayor a 50 o menor  
-Practica 43 — número negativo o no negativo  
-Practica 44 — número mayor que cinco o menor  
-Practica 45 — cantidad mayor a 20 o menor  
-Practica 46 — número mayor que uno o no  
-Practica 47 — menor de edad o mayor de edad  
-Practica 48 — número mayor a 200 o no  
-Practica 49 — número mayor a 25 o menor  
-Practica 50 — número mayor a 500 o menor

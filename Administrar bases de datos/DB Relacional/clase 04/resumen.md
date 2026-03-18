@@ -1,4 +1,4 @@
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 3](../clase%2003/resumen-2026-03-04.md) &nbsp;·&nbsp; [Clase 5 →](../clase%2005/resumen-2025-03-10.md)
+[← README](../../../README.md) · [← Clase 3](../clase%2003/resumen.md) · [Clase 5 →](../clase%2005/resumen.md)
 
 ---
 
@@ -322,4 +322,4 @@ Esta actividad permitió a los alumnos:
 
 ---
 
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 3](../clase%2003/resumen-2026-03-04.md) &nbsp;·&nbsp; [Clase 5 →](../clase%2005/resumen-2025-03-10.md)
+[← README](../../../README.md) · [← Clase 3](../clase%2003/resumen.md) · [Clase 5 →](../clase%2005/resumen.md)

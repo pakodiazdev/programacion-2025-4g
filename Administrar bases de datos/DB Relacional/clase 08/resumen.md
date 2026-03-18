@@ -1,3 +1,7 @@
+[← README](../../../README.md) · [← Clase 7](../clase%2007/resumen.md) · [Clase 9 →](../clase%2009/resumen.md)
+
+---
+
 Martes 17 de Marzo
 
 12:00 - 13:00 Repaso
@@ -123,3 +127,7 @@ El objetivo de esta actividad es comprobar que el alumno **comprende la lógica 
 
 
 [Ejercicios](ejercicios.md)
+
+---
+
+[← README](../../../README.md) · [← Clase 7](../clase%2007/resumen.md) · [Clase 9 →](../clase%2009/resumen.md)

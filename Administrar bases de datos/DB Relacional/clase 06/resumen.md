@@ -1,4 +1,4 @@
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 5](../clase%2005/resumen-2025-03-10.md) &nbsp;·&nbsp; [Clase 7 →](../clase%2007/plan.md)
+[← README](../../../README.md) · [← Clase 5](../clase%2005/resumen.md) · [Clase 7 →](../clase%2007/resumen.md)
 
 ---
 
@@ -282,6 +282,8 @@ Estas herramientas permiten generar **mensajes dinámicos y resultados más clar
 
 ---
 
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 5](../clase%2005/resumen-2025-03-10.md) &nbsp;·&nbsp; [Clase 7 →](../clase%2007/plan.md)
-
 [Ejercicios](ejercicios.md)
+
+---
+
+[← README](../../../README.md) · [← Clase 5](../clase%2005/resumen.md) · [Clase 7 →](../clase%2007/resumen.md)

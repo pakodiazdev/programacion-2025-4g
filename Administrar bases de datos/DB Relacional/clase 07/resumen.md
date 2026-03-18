@@ -1,4 +1,4 @@
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 6](../clase%2006/resumen-2025-03-10.md)
+[← README](../../../README.md) · [← Clase 6](../clase%2006/resumen.md) · [Clase 8 →](../clase%2008/resumen.md)
 
 ---
 
@@ -200,4 +200,4 @@ Estos elementos permiten que los programas **respondan de manera diferente segú
 
 ---
 
-[← README](../../../README.md) &nbsp;·&nbsp; [← Clase 6](../clase%2006/resumen-2025-03-10.md)
+[← README](../../../README.md) · [← Clase 6](../clase%2006/resumen.md) · [Clase 8 →](../clase%2008/resumen.md)
