@@ -31,8 +31,8 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 
 | Clase | Fecha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temas vistos |
 |-------|----------------------|--------------|
-| [01](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2001/resumen.md) | 11&nbsp;de&nbsp;marzo | Introducción a JavaScript · Node.js · Lectura básica de código |
-| [02](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2002/resumen.md) | 13&nbsp;de&nbsp;marzo | Variables con `let` · Operador de asignación · Operadores aritméticos y de asignación · Expresiones |
+| [01](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/Clase%2001/resumen.md) | 11&nbsp;de&nbsp;marzo | Introducción a JavaScript · Node.js · Lectura básica de código |
+| [02](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/Clase%2002/resumen.md) | 13&nbsp;de&nbsp;marzo | Variables con `let` · Operador de asignación · Operadores aritméticos y de asignación · Expresiones |
 | [03](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2003/resumen.md) | 18&nbsp;de&nbsp;marzo | Entrada de datos por CLI · Estructuras condicionales en Node.js |
 
 
