@@ -1,4 +1,4 @@
-[← README](../../../README.md) · [← Clase 2](../clase%2002/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 2](../clase%2002/resumen.md)
 
 ---
 
@@ -221,4 +221,4 @@ if (dinero > 0) {
 
 ---
 
-[← README](../../../README.md) · [← Clase 2](../clase%2002/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 2](../clase%2002/resumen.md)

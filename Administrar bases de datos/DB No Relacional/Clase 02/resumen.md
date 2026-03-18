@@ -1,4 +1,4 @@
-[← README](../../../README.md) · [← Clase 1](../clase%2001/resumen.md) · [Clase 3 →](../clase%2003/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 1](../clase%2001/resumen.md) · ➡️ [Clase 3 →](../clase%2003/resumen.md)
 
 ---
 
@@ -287,4 +287,4 @@ Estos conceptos forman la base para construir programas que **manipulan datos y 
 
 ---
 
-[← README](../../../README.md) · [← Clase 1](../clase%2001/resumen.md) · [Clase 3 →](../clase%2003/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 1](../clase%2001/resumen.md) · ➡️ [Clase 3 →](../clase%2003/resumen.md)

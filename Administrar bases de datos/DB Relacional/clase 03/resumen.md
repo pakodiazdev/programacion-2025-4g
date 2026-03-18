@@ -1,4 +1,4 @@
-[← README](../../../README.md) · [← Clase 2](../clase%2002/resumen.md) · [Clase 4 →](../clase%2004/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 2](../clase%2002/resumen.md) · ➡️ [Clase 4 →](../clase%2004/resumen.md)
 
 ---
 
@@ -286,4 +286,4 @@ Esta actividad permitió introducir a los alumnos en el **flujo básico de traba
 
 ---
 
-[← README](../../../README.md) · [← Clase 2](../clase%2002/resumen.md) · [Clase 4 →](../clase%2004/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 2](../clase%2002/resumen.md) · ➡️ [Clase 4 →](../clase%2004/resumen.md)

@@ -1,4 +1,4 @@
-[← README](../../../README.md) · [← Clase 7](../clase%2007/resumen.md) · [Clase 9 →](../clase%2009/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 7](../clase%2007/resumen.md) · ➡️ [Clase 9 →](../clase%2009/resumen.md)
 
 ---
 
@@ -130,4 +130,4 @@ El objetivo de esta actividad es comprobar que el alumno **comprende la lógica 
 
 ---
 
-[← README](../../../README.md) · [← Clase 7](../clase%2007/resumen.md) · [Clase 9 →](../clase%2009/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 7](../clase%2007/resumen.md) · ➡️ [Clase 9 →](../clase%2009/resumen.md)

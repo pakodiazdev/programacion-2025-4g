@@ -1,4 +1,4 @@
-[← README](../../../README.md) · [← Clase 8](../clase%2008/resumen.md) · [Clase 10 →](../clase%2010/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 8](../clase%2008/resumen.md)
 
 ---
 
@@ -229,5 +229,5 @@ En esta sesión la prioridad es completar las prácticas obligatorias y validar 
 
 ---
 
-[← README](../../../README.md) · [← Clase 8](../clase%2008/resumen.md) · [Clase 10 →](../clase%2010/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 8](../clase%2008/resumen.md)
 

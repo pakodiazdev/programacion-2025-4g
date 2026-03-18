@@ -1,4 +1,4 @@
-[← README](../../../README.md) · [← Clase 1](../clase%2001/resumen.md) · [Clase 3 →](../clase%2003/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 1](../clase%2001/resumen.md) · ➡️ [Clase 3 →](../clase%2003/resumen.md)
 
 ---
 
@@ -262,4 +262,4 @@ Esta actividad permitió reforzar la idea de que:
 
 ---
 
-[← README](../../../README.md) · [← Clase 1](../clase%2001/resumen.md) · [Clase 3 →](../clase%2003/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 1](../clase%2001/resumen.md) · ➡️ [Clase 3 →](../clase%2003/resumen.md)
