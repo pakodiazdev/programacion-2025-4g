@@ -271,6 +271,12 @@ Esto permite reforzar la habilidad de **leer código y comprender cómo se const
 
 ---
 
+# Prácticas
+
+[Prácticas](practicas.md)
+
+---
+
 # Conclusión
 
 En esta sesión se introdujeron los elementos fundamentales para realizar operaciones dentro de un programa en JavaScript.
@@ -287,4 +293,4 @@ Estos conceptos forman la base para construir programas que **manipulan datos y 
 
 ---
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 1](../Clase%2001/resumen.md) · ➡️ [Clase 3 →](../clase%2003/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 1](../clase%2001/resumen.md) · ➡️ [Clase 3 →](../clase%2003/resumen.md)

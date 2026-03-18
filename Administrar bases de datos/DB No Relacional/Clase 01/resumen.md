@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ➡️ [Clase 2 →](../Clase%2002/resumen.md)
+🏠 [← README](../../../README.md) · ➡️ [Clase 2 →](../clase%2002/resumen.md)
 
 ---
 
@@ -361,4 +361,10 @@ Estos conceptos permitirán comprender mejor cómo funcionan los **documentos en
 
 ---
 
-🏠 [← README](../../../README.md) · ➡️ [Clase 2 →](../Clase%2002/resumen.md)
+# Prácticas
+
+[Prácticas](practicas.md)
+
+---
+
+🏠 [← README](../../../README.md) · ➡️ [Clase 2 →](../clase%2002/resumen.md)
