@@ -1,4 +1,4 @@
-[← Clase 3](../clase%2003/resumen.md) · [Clase 5 →](../clase%2005/plan.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 3](../clase%2003/resumen.md) · 🧪 [Ejercicios](ejercicios.md)
 
 ---
 
@@ -41,12 +41,37 @@ y se refuerza con:
 
 ```text
 📌 Problema → 📥 Input → ⚙️ Process → 📤 Output
-          ↓
-      Diagrama 🔷
-          ↓
-     Pseudocódigo 🧠 
-          ↓
-        Código 💻
+      ↓
+      Algoritmo
+            ↓
+        Diagrama 🔷
+              ↓
+        Pseudocódigo 🧠 
+                ↓
+              Código 💻
+```
+
+---
+## 📂 Ubicación de archivos base
+
+Ubicacion y estructura recomendada para las practicas:
+
+En la unidad C: crear la siguiente estructura de carpetas
+
+```text
+adminitracion-de-basesdedatos/
+└── relacional/
+    └── libs/
+    └── clase-01/
+    └── clase-02/
+    └── clase-03/
+    └── clase-03/
+└── no-relacionales
+    └── libs/
+    └── clase-01/
+    └── clase-02/
+    └── clase-03/
+    └── clase-03/
 ```
 
 ---
@@ -55,38 +80,25 @@ y se refuerza con:
 
 Antes de comenzar con la lógica, se introduce cómo leer datos desde el teclado en Node.js.
 
-Se utilizará una función personalizada llamada `readline`.
+Se utilizará una función personalizada llamada `readline`. **En este momento no nos interesa comprender el código de esta
 
----
-
-## 📂 Ubicación de archivos base
-
-```text
-Administrar bases de datos/
-└── DB No Relacional/
-    └── clase 04/
-        └── ejemplo-input/
-            └── javascript/
-                ├── hola.js
-                ├── readline.js
-                └── template.js
-```
+solo entender que como usarla cuando necesitemos que el usuario no de un dato mediante la consola
 
 ---
 
 ## 📄 Archivo: `readline.js`
 
 ```js
-const readlineNode = require("readline");
+const rl = require("readline");
 
-function readline(mensaje) {
-  const interfaz = readlineNode.createInterface({
+function readline() {
+  const interfaz = rl.createInterface({
     input: process.stdin,
     output: process.stdout
   });
 
   return new Promise((resolve) => {
-    interfaz.question(mensaje, (respuesta) => {
+    interfaz.question("", (respuesta) => {
       interfaz.close();
       resolve(respuesta);
     });
@@ -98,6 +110,8 @@ module.exports = readline;
 
 ---
 
+Para usarlo deberemos craer nuestros siguiendo el siguiente template: 
+
 ## 📄 Archivo: `template.js`
 
 Este archivo será la base para todos los ejercicios.
@@ -106,13 +120,10 @@ Este archivo será la base para todos los ejercicios.
 const readline = require("./readline");
 
 (async () => {
+
   // =========================
   // ESCRIBE TU CÓDIGO AQUÍ
   // =========================
-
-  let dato = await readline("Escribe un valor: ");
-
-  // lógica aquí
 
 })();
 ```
@@ -121,10 +132,16 @@ const readline = require("./readline");
 
 ## 📄 Archivo: `hola.js`
 
+para leer un dato desde teclado en Js ahora podremos hacer lo siguiente 
+
+```js
+let dato = await readline("Escribe un valor: ");
+```
+
 Ejemplo básico de uso:
 
 ```js
-const readline = require("./readline");
+const readline = require("../libs/readline");
 
 (async () => {
   let nombre = await readline("Ingresa tu nombre: ");
@@ -137,22 +154,24 @@ const readline = require("./readline");
 
 # 📁 Organización del repositorio
 
-Cada alumno deberá crear la siguiente estructura:
+Coloca los archivos anteriores en las siguientes carpetas:
 
 ```text
-/tu-nombre/
-└── base-de-datos/
-    ├── relacional/
-    │   └── clase-04/
-    └── no-relacional/
-        └── clase-04/
-```
-
----
+adminitracion-de-basesdedatos/
+└── no-relacionales
+    └── tempalte.js
+    └── libs/
+        └── readline.js 
+    └── clase-01/
+    └── clase-02/
+    └── clase-03/
 
 ## 📌 Regla de nombres
 
-Se debe usar formato:
+Nombre de las practicas, en las practicas se recomendará ese nombre, usalo, para mantener un orden en tus practicas al final 
+se hara un recopilado de todas nuestras practicas usa ese nombre y guradalo en la clase que corresponda, evita mezclarlos y tener tus practicas desordenadas.
+
+se recomienda usar el formato
 
 ```text
 palabra-palabra
@@ -192,6 +211,10 @@ Porque en la terminal se tendría que escribir:
 cd "base de datos"
 ```
 
+```bash
+cd base\ de\ datos
+```
+
 En cambio:
 
 ```bash
@@ -200,17 +223,6 @@ cd base-de-datos
 
 ---
 
-# ⏱️ Estructura de la clase
-
-| Bloque | Tema | Tiempo |
-|---|---|---:|
-| 1 | Introducción y enfoque | 10 min |
-| 2 | Modelo de resolución de problemas | 15 min |
-| 3 | Ejercicio guiado (docente) | 20 min |
-| 4 | Práctica individual | 60 min |
-| 5 | Cierre y retroalimentación | 15 min |
-
----
 
 # 🟡 1. Introducción (10 min)
 
@@ -375,13 +387,19 @@ fin si
 const readline = require("./readline");
 
 (async () => {
+  // leer edad
   let edad = Number(await readline("Ingresa tu edad: "));
 
+  // si edad >= 18 entonces
   if (edad >= 18) {
+    // mostrar "Mayor de edad"
     console.log("Mayor de edad");
   } else {
+    // mostrar "Menor de edad"
     console.log("Menor de edad");
   }
+  //fin si
+  
 })();
 ```
 
@@ -558,3 +576,9 @@ El objetivo principal es desarrollar la capacidad de pensar:
 #Resumen 
 
 <img src="ifografia.png">
+
+
+
+# Ejercicios
+
+[Ejercicios](ejercicios.md)

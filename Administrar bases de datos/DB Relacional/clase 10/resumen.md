@@ -1,4 +1,4 @@
-[← Clase 9](../clase%2009/resumen.md) · [Clase 11 →](../clase%2011/plan.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 9](../clase%2009/resumen.md) · 🧪 [Ejercicio](ejercicio.md)
 
 ---
 
@@ -30,11 +30,16 @@ Que el alumno:
 > ❌ Programar no es empezar escribiendo código  
 > ✅ Programar es entender primero el problema
 
+Esta clase se mezclo con los temas visto en la clase 04 de No Relacional, ya que los fundamentos y la ténica de entender el problema, extrare o formular un algoritmo, paasar ese algoritmo a un diagrma de flujo, eleboar un pseudocodigo y finalmente 
+códificar **aplica para cualquier lenguaje de programción** y es el proceso recomendado para desarrollar nuestro **pensamiento logico** que es vital para poder entender que escribiremos como código, sin esto no hay manera de que puedas códificar un programa, recuerda, **Programar es enseñar a la computadora a resolver un probleme**, NO puedes enseñar algo que antes no sabes resolver por ti mismo.
+
 ---
+
+
 
 # 📥 Entrada de datos en PHP CLI
 
-Se utiliza la función:
+Para pedir un dato desde la linea de comando se utiliza la función:
 
 ```php
 readline()
@@ -56,8 +61,24 @@ echo "Hola " . $nombre;
 ## 📌 Conversión de tipos
 
 ```php
-$edad = (int) readline("Edad: ");
-$precio = (float) readline("Precio: ");
+
+echo "Edad: \n";
+$dato = readline(); // lee la entrada del usuario como cadena
+
+// Conversión de string a int (entero) 
+$edad = intval($dato)
+
+
+echo "Edad_ \n";
+// cast a tipo int
+$dato = readline();
+$edad = (int) $dato // lee la entrada del usuario como cadena
+
+echo "Precio: \n";
+$dato = readline();
+// cast a tipo float
+$precio = (float) $dato;
+
 ```
 
 ---
@@ -98,20 +119,6 @@ if ($edad >= 18) {
 
 ---
 
-# 🧩 Problemas
-
-1. Edad → acceso permitido / denegado  
-2. Monto → promoción / no promoción  
-3. Número → par / impar  
-4. Usuario → correcto / incorrecto  
-5. Dos números → mayor  
-6. División → válida / error  
-7. Velocidad → exceso / normal  
-8. Asistencia → suficiente / insuficiente  
-
----
-
-
 <img src="ifografia.png">
 
 # ✅ Resultado esperado
@@ -122,4 +129,4 @@ El alumno:
 - entiende if/else
 - resuelve problemas antes de programar
 
-
+Ejercicios: [Abrir guía de ejercicios](ejercicio.md)
