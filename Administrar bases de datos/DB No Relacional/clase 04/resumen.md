@@ -3,7 +3,7 @@
 ---
 
 # Clase 4 — Pensamiento lógico, `if / else` y entrada de datos (JS + PHP CLI)
-**Fecha:** viernes  
+**Fecha:** 20-marzo-2026  
 **Duración total:** 2 horas  
 **Modalidad:** 1 hr aula + 1 hr laboratorio (sesión extendida)
 

@@ -21,6 +21,7 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [08](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2008/resumen.md) | 17&nbsp;de&nbsp;marzo | Repaso general · Primera Evaluación BDR y BDNR|
 | [09](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2009/resumen.md) | 18&nbsp;de&nbsp;marzo | Comentarios · Estructura `else` · Recordatorio de Git · Prácticas de `if/else` |
 | [10](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2010/resumen.md) | 20&nbsp;de&nbsp;marzo | Pensamiento lógico · Flujo Input–Process–Output · `if/else` · Entrada de datos en PHP CLI |
+| [11](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2011/resumen.md) | 23&nbsp;de&nbsp;marzo | Operadores lógicos (`&&`, `\|\|`, `!`) · Condiciones compuestas · `if/else` con `readline` |
 
 [Guía de instalación del entorno de desarrollo para PHP (PHP-CLI, XAMPP, Git y VS Code)](https://youtu.be/nfePSKA0f1Q);
 
@@ -32,10 +33,11 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 
 | Clase | Fecha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temas vistos |
 |-------|----------------------|--------------|
-| [01](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/Clase%2001/resumen.md) | 11&nbsp;de&nbsp;marzo | Introducción a JavaScript · Node.js · Lectura básica de código |
-| [02](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/Clase%2002/resumen.md) | 13&nbsp;de&nbsp;marzo | Variables con `let` · Operador de asignación · Operadores aritméticos y de asignación · Expresiones |
+| [01](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2001/resumen.md) | 11&nbsp;de&nbsp;marzo | Introducción a JavaScript · Node.js · Lectura básica de código |
+| [02](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2002/resumen.md) | 13&nbsp;de&nbsp;marzo | Variables con `let` · Operador de asignación · Operadores aritméticos y de asignación · Expresiones |
 | [03](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2003/resumen.md) | 18&nbsp;de&nbsp;marzo | Entrada de datos por CLI · Estructuras condicionales en Node.js |
 | [04](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2004/resumen.md) | 20&nbsp;de&nbsp;marzo | Pensamiento lógico · Flujo Input–Process–Output · `if/else` · Entrada de datos con `readline` |
+| [05](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2005/resumen.md) | 23&nbsp;de&nbsp;marzo | Operadores lógicos (`&&`, `\|\|`, `!`) · Condiciones compuestas · `if/else` con `readline` |
 
 
 [Guía de instalación del entorno de desarrollo para Bases de Datos No Relacionales (Node.js y MongoDB)](https://youtu.be/r-ch1M4M91s)

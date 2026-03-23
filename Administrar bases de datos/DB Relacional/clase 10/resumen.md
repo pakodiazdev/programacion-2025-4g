@@ -2,8 +2,8 @@
 
 ---
 
-# Clase 10 — Pensamiento lógico, `if / else` y entrada de datos en PHP CLI
-**Fecha:** hoy  
+# Clase 10 — Pensamiento lógico, `if / else` y entrada de datos en PHP CLI      
+**Fecha:** 20-marzo-2026
 **Duración total:** 2 horas  
 **Modalidad:** 1 hr aula + 1 hr laboratorio
 
@@ -130,3 +130,6 @@ El alumno:
 - resuelve problemas antes de programar
 
 Ejercicios: [Abrir guía de ejercicios](ejercicio.md)
+
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 09](../clase%2009/resumen.md) | [Clase 11 →](../clase%2011/resumen.md) ➡️ 
