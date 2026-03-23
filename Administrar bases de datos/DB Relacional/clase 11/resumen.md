@@ -68,7 +68,9 @@ if($edad == 18 && $ine == "SI") {
 
 ```
 
-
+<div align="center">
+    <img src="and.png" width="700">
+</div>
 ---
 
 # 🧩 Tipo de problemas que resuelve
@@ -197,4 +199,4 @@ Los operadores lógicos permiten construir decisiones más completas y acercarse
 [Ejercicios](ejercicios.md)
 
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2010/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2010/resumen.md)  | [Clase 12 →](../clase%2012/resumen.md) ➡️ 
