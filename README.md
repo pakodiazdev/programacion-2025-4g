@@ -22,7 +22,7 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [09](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2009/resumen.md) | 18&nbsp;de&nbsp;marzo | Comentarios · Estructura `else` · Recordatorio de Git · Prácticas de `if/else` |
 | [10](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2010/resumen.md) | 20&nbsp;de&nbsp;marzo | Pensamiento lógico · Flujo Input–Process–Output · `if/else` · Entrada de datos en PHP CLI |
 | [11](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2011/resumen.md) | 23&nbsp;de&nbsp;marzo | Operadores lógicos (`&&`, `\|\|`, `!`) · Condiciones compuestas · `if/else` con `readline` |
-| [12](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2012/resumen.md) | 24&nbsp;de&nbsp;marzo | Operadores lógicos (`\|\|`, `!`) · Condiciones compuestas en `if/else` · Introducción a bases de datos y DBMS |
+| [12](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2012/resumen.md) | 25&nbsp;de&nbsp;marzo | Operadores lógicos (`\|\|`, `!`) · Condiciones compuestas en `if/else` · Introducción a bases de datos y DBMS |
 
 [Guía de instalación del entorno de desarrollo para PHP (PHP-CLI, XAMPP, Git y VS Code)](https://youtu.be/nfePSKA0f1Q);
 
@@ -39,7 +39,18 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [03](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2003/resumen.md) | 18&nbsp;de&nbsp;marzo | Entrada de datos por CLI · Estructuras condicionales en Node.js |
 | [04](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2004/resumen.md) | 20&nbsp;de&nbsp;marzo | Pensamiento lógico · Flujo Input–Process–Output · `if/else` · Entrada de datos con `readline` |
 | [05](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2005/resumen.md) | 23&nbsp;de&nbsp;marzo | Operadores lógicos (`&&`, `\|\|`, `!`) · Condiciones compuestas · `if/else` con `readline` |
-| [06](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2006/resumen.md) | 24&nbsp;de&nbsp;marzo | Operadores lógicos (`\|\|`, `!`) · Condiciones compuestas en `if/else` |
+| [06](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2006/resumen.md) | 25&nbsp;de&nbsp;marzo | Operadores lógicos (`\|\|`, `!`) · Condiciones compuestas en `if/else` |
 
 
 [Guía de instalación del entorno de desarrollo para Bases de Datos No Relacionales (Node.js y MongoDB)](https://youtu.be/r-ch1M4M91s)
+
+
+## Material de Repasaso
+
+- [¿Cómo se usa la TERMINAL? | Tutorial de CMD/Powershell para PRINCIPIANTES](https://www.youtube.com/watch?v=kfEpjj2NZxU)
+
+- [https://www.youtube.com/watch?v=ArJ-UCfZNhQ&list=PLr4IjHlzo00CrJUgGUtqVBLTSlT3WKTUB](https://www.youtube.com/watch?v=ArJ-UCfZNhQ&list=PLr4IjHlzo00CrJUgGUtqVBLTSlT3WKTUB)
+
+- [Introducción a la Programación](https://www.youtube.com/watch?v=vVJKf3QPMT0&list=PL4LXesmQ32NfTNYLziEOBiqUKVQLTAqlP)
+
+- [https://www.youtube.com/playlist?list=PL2Z95CSZ1N4GMwrkJUarWX6SqOyF_B84l](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4GMwrkJUarWX6SqOyF_B84l)

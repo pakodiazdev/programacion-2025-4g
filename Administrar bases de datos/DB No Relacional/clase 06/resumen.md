@@ -3,7 +3,7 @@
 ---
 # Clase 06 Operadores lógicos, operador `||` or y `!` not
 
-**Fecha:** 24-marzo-2026  
+**Fecha:** 25-marzo-2026  
 **Materia:** Bases de datos NO relacionales  
 
 ---
@@ -328,6 +328,7 @@ Se utiliza cuando necesitamos comprobar que algo **no** se cumple, invirtiendo e
 
 # Ejercicios/Practicas
 
-[Ejercicios](ejercicios.md)
+[Ejercicios](ejercicios.md)   
+[Investigación](investigacion.md)  
 
 🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2011/resumen.md)

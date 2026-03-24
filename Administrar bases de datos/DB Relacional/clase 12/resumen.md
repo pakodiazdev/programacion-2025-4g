@@ -3,7 +3,7 @@
 ---
 # Clase 12 Operadores lógicos, operador `||` or y `!` not, Introducción a las bases de datos y evolución histórica  
 
-**Fecha:** 24-marzo-2026  
+**Fecha:** 25-marzo-2026  
 **Materia:** Bases de datos relacionales  
 
 ---
@@ -62,9 +62,6 @@ if ($vip == "SI" || $cupon == "SI") {
 }
 
 ```
-
-
----
 
 ---
 
@@ -187,7 +184,9 @@ El operador `||` permite tomar decisiones cuando existen varias opciones posible
 
 Se utiliza cuando basta con que **al menos una condición** sea verdadera para que la acción se cumpla.
 
-
+<div align="center">
+    <img src="or.png" width="600">
+</div>
 ---
 
 # Operador lógico `!` — NOT (No lógico)
@@ -298,11 +297,15 @@ if (!($entrego === "SI")) {
 }
 ```
 
-# 📌 Conclusión or
+# 📌 Conclusión Not
 
 El operador `!` permite negar una condición y evaluar su contrario.
 
 Se utiliza cuando necesitamos comprobar que algo **no** se cumple, invirtiendo el valor de una expresión lógica.
+
+<div align="center">
+    <img src="not.png" width="600">
+</div>
 
 
 ---
@@ -641,12 +644,13 @@ Comprender esta evolución ayuda a entender por qué las bases de datos son fund
 
 # RESUMEN 
 
-<img src="infografia.png" >
-
+<div align="center">
+    <img src="infografia.png" width="600">
+</div>
 
 # Ejercicios/Practicas
 
-[Ejercicios](ejercicios.md)
-
+[Ejercicios](ejercicios.md)  
+[Investigación](investigacion.md)  
 
 🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2011/resumen.md)
