@@ -48,9 +48,7 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 ## Material de Repasaso
 
 - [¿Cómo se usa la TERMINAL? | Tutorial de CMD/Powershell para PRINCIPIANTES](https://www.youtube.com/watch?v=kfEpjj2NZxU)
-
-- [https://www.youtube.com/watch?v=ArJ-UCfZNhQ&list=PLr4IjHlzo00CrJUgGUtqVBLTSlT3WKTUB](https://www.youtube.com/watch?v=ArJ-UCfZNhQ&list=PLr4IjHlzo00CrJUgGUtqVBLTSlT3WKTUB)
-
+- [CURSO BASICO DE CMD](https://www.youtube.com/watch?v=ArJ-UCfZNhQ&list=PLr4IjHlzo00CrJUgGUtqVBLTSlT3WKTUB)
 - [Introducción a la Programación](https://www.youtube.com/watch?v=vVJKf3QPMT0&list=PL4LXesmQ32NfTNYLziEOBiqUKVQLTAqlP)
-
-- [https://www.youtube.com/playlist?list=PL2Z95CSZ1N4GMwrkJUarWX6SqOyF_B84l](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4GMwrkJUarWX6SqOyF_B84l)
+- [Reproducir todo Curso completo de Fundamentos de programación.](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4GMwrkJUarWX6SqOyF_B84l)
+- 
