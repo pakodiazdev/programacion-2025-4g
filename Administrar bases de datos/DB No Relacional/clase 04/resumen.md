@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 3](../clase%2003/resumen.md) · 🧪 [Ejercicios](ejercicios.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 03](../clase%2003/resumen.md) · Clase 04 · [Clase 05 →](../clase%2005/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)
 
 ---
 
@@ -127,6 +127,16 @@ const readline = require("./readline");
 
 })();
 ```
+
+---
+
+## ⚠️ Nota sobre el template
+
+Las líneas `(async () => {` y `})();` son parte del template que permite usar `readline`.  
+**No necesitas entender cómo funcionan por ahora** — solo úsalas como envoltorio de tu código.
+
+> Si alguna vez ves un error que menciona la palabra **`Promise`**, no es un problema dentro de tu lógica.  
+> Revisa que tu código esté correctamente escrito **dentro** del bloque, entre los comentarios del template.
 
 ---
 
@@ -582,3 +592,6 @@ El objetivo principal es desarrollar la capacidad de pensar:
 # Ejercicios
 
 [Ejercicios](ejercicios.md)
+
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 03](../clase%2003/resumen.md) · Clase 04 · [Clase 05 →](../clase%2005/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

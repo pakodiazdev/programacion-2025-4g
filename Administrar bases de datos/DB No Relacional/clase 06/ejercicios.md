@@ -1,4 +1,11 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · 📘 [Resumen](resumen.md)
+[← Volver al resumen](resumen.md)
+
+---
+
+# Clase 06 Operadores lógicos, operador `||` or y `!` not
+
+**Fecha:** 25-marzo-2026  
+**Materia:** Bases de datos NO relacionales  
 
 ---
 
@@ -816,3 +823,6 @@ En caso contrario:
 Código válido
 
 ---
+
+
+[← Volver al resumen](resumen.md)

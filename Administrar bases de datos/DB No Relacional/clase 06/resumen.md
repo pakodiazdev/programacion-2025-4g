@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · 🧪 [Ejercicios](ejercicios.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 05](../clase%2005/resumen.md) · Clase 06 · [Clase 07 →](../clase%2007/resumen.md) ➡️ · 🧪 [Ejercicios 06](ejercicios.md)
 
 ---
 # Clase 06 Operadores lógicos, operador `||` or y `!` not
@@ -329,6 +329,10 @@ Se utiliza cuando necesitamos comprobar que algo **no** se cumple, invirtiendo e
 # Ejercicios/Practicas
 
 [Ejercicios](ejercicios.md)   
+
+# Practia para vacaciones, entrega 13 de Abril: 
+
 [Investigación](investigacion.md)  
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2011/resumen.md)
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 05](../clase%2005/resumen.md) · Clase 06 · [Clase 07 →](../clase%2007/resumen.md) ➡️ · 🧪 [Ejercicios 06](ejercicios.md)

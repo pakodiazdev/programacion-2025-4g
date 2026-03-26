@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 2](../clase%2002/resumen.md) · ➡️ [Clase 4 →](../clase%2004/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 02](../clase%2002/resumen.md) · Clase 03 · ➡️ [Clase 04 →](../clase%2004/resumen.md) · 🧪 [Ejercicios 06](ejercicios.md)
 
 ---
 
@@ -201,9 +201,9 @@ if (dinero > 0) {
 
 ---
 
-# Prácticas
+# Ejercicios
 
-[Prácticas](practicas.md)
+[Ejercicios](ejercicios.md)
 
 # Resumen
 <div align="center">
@@ -221,4 +221,4 @@ if (dinero > 0) {
 
 ---
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 2](../clase%2002/resumen.md) · ➡️ [Clase 4 →](../clase%2004/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 02](../clase%2002/resumen.md) · Clase 03 · ➡️ [Clase 04 →](../clase%2004/resumen.md) · 🧪 [Ejercicios 06](ejercicios.md)

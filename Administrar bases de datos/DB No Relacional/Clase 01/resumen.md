@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ➡️ [Clase 2 →](../clase%2002/resumen.md)
+🏠 [← README](../../../README.md) · Clase 01 · ➡️ [Clase 02 →](../clase%2002/resumen.md) · 🧪 [Ejercicios 06](ejercicios.md)
 
 ---
 
@@ -361,10 +361,10 @@ Estos conceptos permitirán comprender mejor cómo funcionan los **documentos en
 
 ---
 
-# Prácticas
+# Ejercicios
 
-[Prácticas](practicas.md)
+[Ejercicios](ejercicios.md)
 
 ---
 
-🏠 [← README](../../../README.md) · ➡️ [Clase 2 →](../clase%2002/resumen.md)
+🏠 [← README](../../../README.md) · Clase 01 · ➡️ [Clase 02 →](../clase%2002/resumen.md) · 🧪 [Ejercicios 06](ejercicios.md)

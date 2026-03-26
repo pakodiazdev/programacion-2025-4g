@@ -1,9 +1,11 @@
-[← Volver al resumen](resumen.md) · [← Volver al README](../../../README.md)
+[← Volver al resumen](resumen.md)
 
 ---
 
-# Prácticas — Clase 01
-**Tema:** Introducción a JavaScript y Node.js
+# Clase 01 — Introducción a JavaScript y Node.js  
+**Fecha:** 11 de marzo  
+**Materia:** Bases de datos no relacionales  
+**Tema:** Introducción a JavaScript, Node.js y lectura básica de código
 
 ---
 
@@ -75,4 +77,4 @@ Responder de forma breve:
 
 ---
 
-[← Volver al resumen](resumen.md) · [← Volver al README](../../../README.md)
+[← Volver al resumen](resumen.md)

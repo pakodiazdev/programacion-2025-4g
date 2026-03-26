@@ -2,7 +2,7 @@
 
 ---
 
-# Clase — Flujo del programa y manejo de cadenas  
+# Clase 06 — Flujo del programa y manejo de cadenas  
 **Duración:** 2 horas  
 **Materia:** Bases de datos relacionales / Programación con PHP CLI
 

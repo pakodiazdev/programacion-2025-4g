@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · 🧪 [Ejercicios](ejercicios.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · [Clase 06 →](../clase%2006/resumen.md) ➡️
 
 ---
 # Clase 05 Operadores lógicos, operador `&&`   
@@ -51,25 +51,24 @@ Se cumple cuando **todas las condiciones son verdaderas**
 Ejemplo en código JavaScript
 
 ```js
+const readline = require('../libs/readline');
 
-const readline = require("./readline");
 (async () => {
-  
-  console.log("¿Cuantos años tienes?");
+
+  console.log('¿Cuántos años tienes?');
   let edad = await readline();
   edad = Number(edad);
 
-  console.log("¿Tienes tu INE? (SI/NO)");
-  let ine = readLine();
+  console.log('¿Tienes tu INE? (SI/NO)');
+  let ine = await readline();
 
-  if(edad == 18 && ine == "SI") {
-    console.log("Puedes pasar");
+  if (edad >= 18 && ine === 'SI') {
+    console.log('Puedes pasar');
   } else {
-    console.log("NO puedes pasar");
+    console.log('NO puedes pasar');
   }
 
 })();
-
 ```
 
 
@@ -168,19 +167,20 @@ Fin
 ## Código en JavaScript NodeJS
 
 ```js
-const readline = require("./readline");
+const readline = require('../libs/readline');
+
 (async () => {
 
-    console.log("Ingresa el usuario:");
-    let usuario = readline();
+    console.log('Ingresa el usuario:');
+    let usuario = await readline();
 
-    console.log("Ingresa la contraseña:");
-    let password = readline();
+    console.log('Ingresa la contraseña:');
+    let password = await readline();
 
-    if (usuario == "admin" && password == "1234") {
-        console.log("Acceso permitido");
+    if (usuario === 'admin' && password === '1234') {
+        console.log('Acceso permitido');
     } else {
-        console.log("Acceso denegado");
+        console.log('Acceso denegado');
     }
 
 })();
@@ -204,4 +204,4 @@ Los operadores lógicos permiten construir decisiones más completas y acercarse
 [Ejercicios](ejercicios.md)
 
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2010/resumen.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · [Clase 06 →](../clase%2006/resumen.md) ➡️

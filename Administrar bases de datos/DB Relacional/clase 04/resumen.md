@@ -291,7 +291,7 @@ C:\xampp\php
 Finalmente se ejecutó el archivo creado por el alumno usando el interprete `php.exe`.
 
 ```cmd
-php.exe holamundo.php
+php.exe C:\Juan\holamundo.php
 ```
 
 Al ejecutar el comando, el programa muestra en pantalla:
@@ -320,6 +320,20 @@ Esta actividad permitió a los alumnos:
     <img src="clase4.png" width="400">
 </div>
 
+
+# NOTA **IMPORTANTE** y RECOMENDACIÓN
+
+En esta clase se notó un **déficit muy grave**: los alumnos no comprenden la **estructura de directorios**, ni son capaces de entender cómo se forma una **ruta a un archivo en Windows**.
+
+También se observó que **no conocen la terminal** ni son capaces de moverse en la consola entre directorios, debido a que presentan un **déficit en la comprensión del sistema de archivos**.
+
+Esto es algo **grave**, ya que es un conocimiento base de la **informática básica**.
+
+Para todo alumno que tenga problema con esto, les recomiendo ver los siguientes videos:
+
+- [¿Cómo se usa la TERMINAL? | Tutorial de CMD/Powershell para PRINCIPIANTES](https://www.youtube.com/watch?v=kfEpjj2NZxU)
+- [CURSO BASICO DE CMD](https://www.youtube.com/watch?v=ArJ-UCfZNhQ&list=PLr4IjHlzo00CrJUgGUtqVBLTSlT3WKTUB)
+  
 ---
 
 🏠 [← README](../../../README.md) · ⬅️ [← Clase 3](../clase%2003/resumen.md) · ➡️ [Clase 5 →](../clase%2005/resumen.md)

@@ -1,4 +1,11 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 3](../clase%2003/resumen.md) · 📘 [Resumen](resumen.md)
+[← Volver al resumen](resumen.md)
+
+---
+
+# Clase 4 — Pensamiento lógico, `if / else` y entrada de datos (JS + PHP CLI)
+**Fecha:** 20-marzo-2026  
+**Duración total:** 2 horas  
+**Modalidad:** 1 hr aula + 1 hr laboratorio (sesión extendida)
 
 ---
 
@@ -347,3 +354,5 @@ En caso contrario:
 Crédito no aprobado  
 
 ---
+
+[← Volver al resumen](resumen.md)

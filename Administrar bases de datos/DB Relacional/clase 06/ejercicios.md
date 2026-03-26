@@ -1,8 +1,9 @@
-[<- Clase 6](resumen-2025-03-10.md)
+[<- Clase 6](resumen.md)
 
 ---
-
-# Ejercicios de práctica — Flujo del programa y manejo de cadenas
+# [Clase 06 — Flujo del programa y manejo de cadenas](resumen.md)  
+**Duración:** 2 horas  
+**Materia:** Bases de datos relacionales / Programación con PHP CLI
 
 ## Ejercicio 5
 
@@ -135,4 +136,4 @@ Juan compró una Laptop por 15000 pesos.
 
 ---
 
-[<- Clase 6](resumen-2025-03-10.md)
+[<- Clase 6](resumen.md)

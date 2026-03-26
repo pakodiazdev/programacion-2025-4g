@@ -1,9 +1,12 @@
-[← Volver al resumen](resumen.md) · [← Volver al README](../../../README.md)
+[← Volver al resumen](resumen.md)
 
 ---
 
-# Prácticas — Clase 03
-**Tema:** Entrada de datos y toma de decisiones en Node.js CLI
+# Clase 3 — Entrada de datos y toma de decisiones (Node.js CLI)
+**Fecha:** 18 de marzo  
+**Duración total:** 2 horas (1 hr revisión + 1 hr contenido)
+
+---
 
 ## Convención de nombre de archivo
 
@@ -232,4 +235,4 @@ Resultado esperado:
 
 ---
 
-[← Volver al resumen](resumen.md) · [← Volver al README](../../../README.md)
+[← Volver al resumen](resumen.md)

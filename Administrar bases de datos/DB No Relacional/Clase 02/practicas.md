@@ -1,9 +1,11 @@
-[← Volver al README](../../../README.md)
+[← Volver al resumen](resumen.md)
 
 ---
 
-# Prácticas — Clase 2  
-**Tema:** Variables, asignación, operadores y expresiones en JavaScript
+# Clase 2 — Variables, asignación, operadores y expresiones en JavaScript  
+**Fecha:** 13 de marzo  
+**Duración:** 2 horas  
+**Materia:** Bases de datos no relacionales / Introducción a JavaScript con Node.js
 
 ---
 
@@ -97,4 +99,5 @@ Calcular y mostrar cuánto le corresponde a cada persona al dividir el total ent
 
 ---
 
-[← Volver al README](../../../README.md)
+[← Volver al resumen](resumen.md)
+

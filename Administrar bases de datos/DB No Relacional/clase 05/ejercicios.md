@@ -1,4 +1,11 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · 📘 [Resumen](resumen.md)
+[← Volver al resumen](resumen.md)
+
+---
+
+# Clase 05 Operadores lógicos, operador `&&`   
+
+**Fecha:** 23-marzo-2026  
+**Materia:** Bases de datos NO relacionales  
 
 ---
 
@@ -679,5 +686,4 @@ Acceso denegado
 
 ---
 
-
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 05](../clase%2005/resumen.md)
+[← Volver al resumen](resumen.md)
