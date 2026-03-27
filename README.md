@@ -26,6 +26,14 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [13](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/resumen.md) | 13&nbsp;de&nbsp;abril | Estructura `if / elseif / else` · Ciclo `while` · Introducción a MySQL · Conexión desde consola |
 | [14](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/resumen.md) | 14&nbsp;de&nbsp;abril | Ciclo `for` · Qué es una tabla · Campos y tipos de datos · `CREATE TABLE` · `DESCRIBE` |
 | [15](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2015/resumen.md) | 15&nbsp;de&nbsp;abril | Arreglos (`array`) en PHP · `count()` · `$arr[]` · `for` + arreglos · `INSERT INTO` (múltiples registros) · `SELECT *` · `SELECT` con campos específicos |
+| [16](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2016/resumen.md) | 17&nbsp;de&nbsp;abril | `switch / case / break / default` · Comparativa con `if/elseif` · **Git/GitHub desde VSCode** — configuración, primer push, protocolo de cierre de sesión |
+| [17](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/resumen.md) | 22&nbsp;de&nbsp;abril | Funciones: declaración, parámetros, `return` · Funciones sin `return` · Llamar funciones desde `switch` |
+| [18](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/resumen.md) | 23&nbsp;de&nbsp;abril | Arrays asociativos (`['clave' => 'valor']`) · `foreach` · Relación con `mysqli_fetch_assoc()` · JSON: `json_encode` / `json_decode` |
+| [19](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/resumen.md) | 27&nbsp;de&nbsp;abril | 🧪 **Mini-app integradora PHP** (sin BD): menú `switch`, funciones, arrays asociativos · Lista de tareas en memoria |
+| [20](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2020/resumen.md) | 28&nbsp;de&nbsp;abril | Modelo Entidad-Relación · Cardinalidad 1:1, 1:N, N:M · Llaves PK/FK · Tipos de datos MySQL · Normalización 1FN y 2FN |
+| [21](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2021/resumen.md) | 29&nbsp;de&nbsp;abril | **DDL en MySQL:** `CREATE DATABASE` · `CREATE TABLE` con constraints (`PRIMARY KEY`, `AUTO_INCREMENT`, `NOT NULL`, `UNIQUE`, `FOREIGN KEY`) · `DESCRIBE` · `DROP TABLE` |
+| [22](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2022/resumen.md) | 6&nbsp;de&nbsp;mayo | 🧪 **DML:** `INSERT INTO` múltiple · `SELECT *` · `SELECT` con columnas · `WHERE` · `ORDER BY` · `LIMIT` |
+| [23](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2023/resumen.md) | 7&nbsp;de&nbsp;mayo | 🧪 **UPDATE** y **DELETE** con `WHERE` · Advertencia sin `WHERE` · Transacciones básicas · Diseño de BD del proyecto |
 
 [Guía de instalación del entorno de desarrollo para PHP (PHP-CLI, XAMPP, Git y VS Code)](https://youtu.be/nfePSKA0f1Q);
 
@@ -46,7 +54,14 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [07](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/resumen.md) | 13&nbsp;de&nbsp;abril | Estructura `if / else if / else` · Ciclo `while` |
 | [08](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2008/resumen.md) | 14&nbsp;de&nbsp;abril | Ciclo `for` · Contador creciente y decreciente · `for` con `readline` |
 | [09](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2009/resumen.md) | 15&nbsp;de&nbsp;abril | Arreglos (`array`) · Ciclo `for` · Recorrido e iteración de colecciones |
-
+| [10](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2010/resumen.md) | 17&nbsp;de&nbsp;abril | `switch / case / break / default` en JS · Comparación estricta `===` · **Git/GitHub desde VSCode** — mismo repositorio que DBR |
+| [11](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2011/resumen.md) | 22&nbsp;de&nbsp;abril | Funciones: declaración, parámetros, `return` · Arrow functions `() => {}` · Comparativa PHP vs JS |
+| [12](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2012/resumen.md) | 23&nbsp;de&nbsp;abril | Objetos `{clave: valor}` · Acceso con `.` y `[]` · Arrays de objetos · `JSON.stringify` / `JSON.parse` · Un objeto JS = un documento MongoDB |
+| [13](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2013/resumen.md) | 27&nbsp;de&nbsp;abril | 🧪 **Mini-app integradora Node.js** (sin BD): menú `switch`, funciones, objetos · Agenda de contactos en memoria |
+| [14](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2014/resumen.md) | 28&nbsp;de&nbsp;abril | ¿Qué es NoSQL? · Tipos: documentos, clave-valor, grafos, columnares · SQL vs NoSQL · MongoDB: colecciones, documentos, BSON vs JSON |
+| [15](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2015/resumen.md) | 29&nbsp;de&nbsp;abril | **MongoDB setup + mongosh:** `show dbs` · `use` · `insertOne` · `insertMany` · `find()` · `_id` y ObjectId |
+| [16](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2016/resumen.md) | 6&nbsp;de&nbsp;mayo | **Consultas MongoDB:** `find()` · `findOne()` · Filtros `$gt`, `$lt`, `$in` · Proyección · `sort()` · `limit()` |
+| [17](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2017/resumen.md) | 7&nbsp;de&nbsp;mayo | 🧪 **Update y Delete MongoDB:** `updateOne` · `updateMany` · `$set` · `$inc` · `$push` · `$pull` · `deleteOne` · `deleteMany` |
 
 [Guía de instalación del entorno de desarrollo para Bases de Datos No Relacionales (Node.js y MongoDB)](https://youtu.be/r-ch1M4M91s)
 
