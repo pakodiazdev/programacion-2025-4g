@@ -230,3 +230,8 @@ if (esNumeroPar($num)) {
 - La calculadora de hoy es un preludio a una aplicación profesional con funciones.
 
 Las funciones son los bloques constructivos de cualquier programa profesional. ¡Dominalas desde ahora!
+
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 16](../clase%2016/resumen.md) · Clase 17 · [Clase 18 →](../clase%2018/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

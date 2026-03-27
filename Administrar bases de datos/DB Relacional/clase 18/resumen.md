@@ -274,3 +274,8 @@ Todas estos formatos representan lo **mismo**, solo con diferentes "ropajes".
 - Estos tres conceptos (array asoc, JSON, datos MySQL) son **el mismo objeto visto desde ángulos diferentes**
 
 Hoy aprendes el lenguaje universal de los datos. A partir de próximas clases, todo lo que leas de la base de datos vendrá en estos formatos.
+
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 17](../clase%2017/resumen.md) · Clase 18 · [Clase 19 →](../clase%2019/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

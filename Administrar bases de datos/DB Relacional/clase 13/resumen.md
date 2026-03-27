@@ -606,3 +606,7 @@ Capturar precios con `while` hasta ingresar `0`. Al final mostrar subtotal, IVA 
 
 En esta clase se reforzó la lógica de control del programa con `if / elseif / else` y repetición con `while`.  
 Además, se dio el primer paso práctico en entorno relacional administrando MySQL desde consola: conexión, visualización y creación de bases de datos.
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) · 🧪 [Ejercicios](ejercicios.md) · [Clase 14 →](../clase%2014/resumen.md) ➡️

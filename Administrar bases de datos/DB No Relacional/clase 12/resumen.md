@@ -236,3 +236,8 @@ Los cuatro representan **lo mismo**, solo con diferentes sintaxis de lenguaje.
 - La progresión es: Objeto → JSON (para guardar/transmitir) → Objeto (para usar)
 
 Dominaste el formato de datos que usa MongoDB. Cuando conectes a MongoDB, estarás trabajando exactamente con estos objetos y JSON.
+
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2011/resumen.md) · Clase 12 · [Clase 13 →](../clase%2013/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

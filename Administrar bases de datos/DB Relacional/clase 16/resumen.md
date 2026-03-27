@@ -391,3 +391,7 @@ Esto descarga cambios de GitHub (útil si trabajaste en otra computadora o si el
 - Cada commit cuenta una historia: "clase-16: p501 switch dia-habil" dice exactamente qué hiciste y cuándo.
 
 Hoy iniciamos el flujo de trabajo profesional que usarán todo el semestre. ¡A partir de aquí, todas las prácticas van a GitHub!
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 15](../clase%2015/resumen.md) · Clase 16 · [Clase 17 →](../clase%2017/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

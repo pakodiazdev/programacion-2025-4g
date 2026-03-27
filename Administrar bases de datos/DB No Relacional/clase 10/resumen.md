@@ -272,3 +272,7 @@ En `bdnr/clase-10/`:
 - **Un repositorio, dos materias, un semestre de código profesional**
 
 A partir de hoy, tu repositorio contiene el código de ambas materias. Mantén la estructura clara y los commits descriptivos.
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 09](../clase%2009/resumen.md) · Clase 10 · [Clase 11 →](../clase%2011/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

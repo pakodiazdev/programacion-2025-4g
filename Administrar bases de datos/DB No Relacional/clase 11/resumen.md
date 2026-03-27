@@ -228,3 +228,8 @@ const sumar = (a, b) => a + b;
 - La calculadora que hiciste hoy es un preludio a operaciones más complejas: en semanas posteriores, cada CRUD de MongoDB será una función asincrónica.
 
 Las funciones son el corazón de cualquier programa. Dominalas bien en ambos lenguajes.
+
+
+---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · Clase 11 · [Clase 12 →](../clase%2012/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)
