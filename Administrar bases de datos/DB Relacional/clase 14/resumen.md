@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 13](../clase%2013/resumen.md) · 🧪 [Ejercicios](ejercicios.md) · [Clase 15 →](../clase%2015/resumen.md) ➡️
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 13](../clase%2013/resumen.md) · Clase 14 · [Clase 15 →](../clase%2015/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md) 
 
 ---
 
@@ -281,4 +281,4 @@ Las tablas en MySQL almacenan datos estructurados en filas y columnas con tipos 
 
 ---
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 13](../clase%2013/resumen.md) · 🧪 [Ejercicios](ejercicios.md) · [Clase 15 →](../clase%2015/resumen.md) ➡️
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 13](../clase%2013/resumen.md) · Clase 14 · [Clase 15 →](../clase%2015/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md) 

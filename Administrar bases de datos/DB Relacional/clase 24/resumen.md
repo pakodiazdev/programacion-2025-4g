@@ -4,8 +4,8 @@
 
 # Clase 24 — JOINs: unir tablas en consultas SQL
 
-**Fecha:** 14–18 de mayo de 2026 (aprox.)
-**Materia:** Bases de datos relacionales
+**Fecha:** 12 de mayo de 2026  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 📚 Teoría + 🧪 Laboratorio
 
 ---

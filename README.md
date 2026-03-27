@@ -3,13 +3,22 @@
 En este repositorio colocaré el plan de clase para las clases impartidas a mi grupo de Programación 2025 (4G) del Cetis 139 para las materias de Bases de Datos Relacionales y Bases de Datos No Relacionales.
 
 ---
+  
+
+# 📝 Trabajos de Investigación 🏠 (Entrega 13 de Abril)   
+
+- [📝 Investigación Bases de datos Relacionales](Administrar%20bases%20de%20datos/DB%20Relacional/clase%2012/investigacion.md)
+- [📝 Investigación Bases de datos No Relacional](Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2006/investigacion.md)
+
+---
+
 
 ## Base de Datos Relacional
 
 ### Clases
 
 
-| Clase | Fecha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temas vistos |
+| Clase | Fecha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temas |
 |-------|----------------------|--------------|
 | [01](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2001/resumen.md) | 2&nbsp;de&nbsp;marzo | Presentación del grupo · Examen de diagnóstico |
 | [02](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2002/resumen.md) | 3&nbsp;de&nbsp;marzo | Tipos de archivos · Editores de texto e IDEs · Flujo de programación · Introducción a PHP CLI |
@@ -34,9 +43,16 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [21](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2021/resumen.md) | 29&nbsp;de&nbsp;abril | **DDL en MySQL:** `CREATE DATABASE` · `CREATE TABLE` con constraints (`PRIMARY KEY`, `AUTO_INCREMENT`, `NOT NULL`, `UNIQUE`, `FOREIGN KEY`) · `DESCRIBE` · `DROP TABLE` |
 | [22](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2022/resumen.md) | 6&nbsp;de&nbsp;mayo | 🧪 **DML:** `INSERT INTO` múltiple · `SELECT *` · `SELECT` con columnas · `WHERE` · `ORDER BY` · `LIMIT` |
 | [23](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2023/resumen.md) | 7&nbsp;de&nbsp;mayo | 🧪 **UPDATE** y **DELETE** con `WHERE` · Advertencia sin `WHERE` · Transacciones básicas · Diseño de BD del proyecto |
-| [24](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2024/resumen.md) | 14–18&nbsp;de&nbsp;mayo | **JOINs:** `INNER JOIN` · `LEFT JOIN` · Alias · Consultas de 3 tablas · Cuándo usar cada tipo |
-| [25](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2025/resumen.md) | 19–22&nbsp;de&nbsp;mayo | 🧪 **Práctica integradora SQL:** BD completa del proyecto · DDL + DML + JOINs · 5 consultas con GROUP BY |
-| [26](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2026/resumen.md) | 25–29&nbsp;de&nbsp;mayo | **Módulos PHP:** `require_once` · `config.php` · `conexion.php` · `funciones.php` · `index.php` · Intro a `new mysqli()` |
+| [24](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2024/resumen.md) | 12&nbsp;de&nbsp;mayo | **JOINs:** `INNER JOIN` · `LEFT JOIN` · Alias · Consultas de 3 tablas · Cuándo usar cada tipo |
+| [25](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2025/resumen.md) | 13&nbsp;de&nbsp;mayo | 🧪 **Práctica integradora SQL:** BD completa del proyecto · DDL + DML + JOINs · 5 consultas con GROUP BY |
+| [26](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2026/resumen.md) | 14&nbsp;de&nbsp;mayo | **Módulos PHP:** `require_once` · `config.php` · `conexion.php` · `funciones.php` · `index.php` · Intro a `new mysqli()` |
+| [27](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2027/resumen.md) | 19&nbsp;de&nbsp;mayo | **PHP + MySQL:** `new mysqli(...)` · `connect_error` · `close()` · archivo `conexion.php` funcional |
+| [28](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2028/resumen.md) | 21&nbsp;de&nbsp;mayo | 🧪 **SELECT desde PHP:** `query()` · `fetch_assoc()` · recorrer con `while` · función `listar($conn)` |
+| [29](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2029/resumen.md) | 26&nbsp;de&nbsp;mayo | **INSERT, UPDATE, DELETE desde PHP:** funciones `agregar()`, `editar()`, `eliminar()` · `affected_rows` · `real_escape_string()` |
+| [30](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2030/resumen.md) | 28&nbsp;de&nbsp;mayo | 🧪 **Menú completo `index.php`:** `switch` + `readline()` · flujo CRUD completo · app funcional |
+| [31](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2031/resumen.md) | 1&nbsp;de&nbsp;junio | 🚀 **Kick-off proyecto:** formación de equipos · reparto de archivos · stubs del proyecto |
+| [32](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2032/resumen.md) | 3&nbsp;de&nbsp;junio | 🧪 **Lab construcción:** implementación de funciones CRUD reales · integración del equipo |
+| [33](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2033/resumen.md) | 9&nbsp;de&nbsp;junio | 🎯 **Demo final:** CRUD completo en vivo · calificación del proyecto integrador |
 
 [Guía de instalación del entorno de desarrollo para PHP (PHP-CLI, XAMPP, Git y VS Code)](https://youtu.be/nfePSKA0f1Q);
 
@@ -46,7 +62,7 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 
 ### Clases
 
-| Clase | Fecha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temas vistos |
+| Clase | Fecha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Temas |
 |-------|----------------------|--------------|
 | [01](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2001/resumen.md) | 11&nbsp;de&nbsp;marzo | Introducción a JavaScript · Node.js · Lectura básica de código |
 | [02](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2002/resumen.md) | 13&nbsp;de&nbsp;marzo | Variables con `let` · Operador de asignación · Operadores aritméticos y de asignación · Expresiones |
@@ -65,9 +81,16 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | [15](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2015/resumen.md) | 29&nbsp;de&nbsp;abril | **MongoDB setup + mongosh:** `show dbs` · `use` · `insertOne` · `insertMany` · `find()` · `_id` y ObjectId |
 | [16](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2016/resumen.md) | 6&nbsp;de&nbsp;mayo | **Consultas MongoDB:** `find()` · `findOne()` · Filtros `$gt`, `$lt`, `$in` · Proyección · `sort()` · `limit()` |
 | [17](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2017/resumen.md) | 7&nbsp;de&nbsp;mayo | 🧪 **Update y Delete MongoDB:** `updateOne` · `updateMany` · `$set` · `$inc` · `$push` · `$pull` · `deleteOne` · `deleteMany` |
-| [18](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2018/resumen.md) | 14–18&nbsp;de&nbsp;mayo | **Modelado MongoDB:** documentos embebidos vs referencias · Arrays de subdocumentos · `$push` / `$pull` con arrays anidados |
-| [19](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2019/resumen.md) | 19–22&nbsp;de&nbsp;mayo | 🧪 **Práctica integradora MongoDB:** colecciones completas del proyecto · 15+ documentos · 5 consultas con filtros combinados |
-| [20](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2020/resumen.md) | 25–29&nbsp;de&nbsp;mayo | **Módulos Node.js:** `require` / `module.exports` · `config.js` · `conexion.js` · `funciones.js` · `index.js` · `async/await` · Intro a `new MongoClient()` |
+| [18](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2018/resumen.md) | 12&nbsp;de&nbsp;mayo | **Modelado MongoDB:** documentos embebidos vs referencias · Arrays de subdocumentos · `$push` / `$pull` con arrays anidados |
+| [19](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2019/resumen.md) | 13&nbsp;de&nbsp;mayo | 🧪 **Práctica integradora MongoDB:** colecciones completas del proyecto · 15+ documentos · 5 consultas con filtros combinados |
+| [20](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2020/resumen.md) | 14&nbsp;de&nbsp;mayo | **Módulos Node.js:** `require` / `module.exports` · `config.js` · `conexion.js` · `funciones.js` · `index.js` · `async/await` · Intro a `new MongoClient()` |
+| [21](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2021/resumen.md) | 19&nbsp;de&nbsp;mayo | **Node.js + MongoDB:** `npm install mongodb` · `new MongoClient(uri)` · `await connect()` · `conexion.js` funcional |
+| [22](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2022/resumen.md) | 21&nbsp;de&nbsp;mayo | 🧪 **find e insertOne desde Node.js:** `find().toArray()` · `findOne()` · `insertOne()` · función `listar(db)` · `agregar(db, datos)` |
+| [23](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2023/resumen.md) | 26&nbsp;de&nbsp;mayo | **updateOne y deleteOne desde Node.js:** `$set` desde código · `ObjectId` · `modifiedCount` · `deletedCount` · funciones `editar()` y `eliminar()` |
+| [24](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2024/resumen.md) | 28&nbsp;de&nbsp;mayo | 🧪 **Menú completo `index.js`:** `readline` + `async main()` + `switch` · flujo CRUD completo · app funcional |
+| [25](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2025/resumen.md) | 1&nbsp;de&nbsp;junio | 🚀 **Kick-off proyecto:** formación de equipos · reparto de archivos · stubs del proyecto |
+| [26](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2026/resumen.md) | 3&nbsp;de&nbsp;junio | 🧪 **Lab construcción:** implementación de funciones CRUD reales · integración del equipo |
+| [27](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2027/resumen.md) | 9&nbsp;de&nbsp;junio | 🎯 **Demo final:** CRUD completo en vivo · calificación del proyecto integrador |
 
 [Guía de instalación del entorno de desarrollo para Bases de Datos No Relacionales (Node.js y MongoDB)](https://youtu.be/r-ch1M4M91s)
 

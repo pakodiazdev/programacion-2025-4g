@@ -4,7 +4,7 @@
 
 # Clase 11 — Funciones en JavaScript
 
-**Fecha:** 22-abril-2026
+**Fecha:** 22-abril-2026  
 **Materia:** Bases de datos NO relacionales
 
 ---

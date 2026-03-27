@@ -4,8 +4,8 @@
 
 # Clase 13 — Mini-app integradora Node.js (sin base de datos)
 
-**Fecha:** 27-abril-2026
-**Materia:** Bases de datos NO relacionales
+**Fecha:** 27-abril-2026  
+**Materia:** Bases de datos NO relacionales  
 **Tipo:** 🧪 LAB integrador
 
 ---

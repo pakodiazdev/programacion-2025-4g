@@ -110,7 +110,7 @@ module.exports = readline;
 
 ---
 
-Para usarlo deberemos craer nuestros siguiendo el siguiente template: 
+Para usarlo deberemos crear nuestros siguiendo el siguiente template:
 
 ## 📄 Archivo: `template.js`
 
@@ -179,7 +179,7 @@ adminitracion-de-basesdedatos/
 ## 📌 Regla de nombres
 
 Nombre de las practicas, en las practicas se recomendará ese nombre, usalo, para mantener un orden en tus practicas al final 
-se hara un recopilado de todas nuestras practicas usa ese nombre y guradalo en la clase que corresponda, evita mezclarlos y tener tus practicas desordenadas.
+se hara un recopilado de todas nuestras practicas usa ese nombre y guárdalo en la clase que corresponda, evita mezclarlos y tener tus practicas desordenadas.
 
 se recomienda usar el formato
 

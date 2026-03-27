@@ -4,8 +4,8 @@
 
 # Clase 16 — Consultas en MongoDB: find, findOne y filtros
 
-**Fecha:** 6-mayo-2026 (aprox.)
-**Materia:** Bases de datos NO relacionales
+**Fecha:** 6-mayo-2026 (aprox.)  
+**Materia:** Bases de datos NO relacionales  
 **Tipo:** 📚 Teoría + 🧪 LAB
 
 ---

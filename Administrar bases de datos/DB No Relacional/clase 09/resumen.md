@@ -4,7 +4,7 @@
 
 # Clase 09 — Arreglos (`array`) y ciclo `for` en JavaScript
 
-**Fecha:** 15-abril-2026
+**Fecha:** 15-abril-2026  
 **Materia:** Bases de datos NO relacionales
 
 ---

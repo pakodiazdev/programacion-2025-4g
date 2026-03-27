@@ -4,8 +4,8 @@
 
 # Clase 20 — Módulos en Node.js: `require` y estructura del proyecto
 
-**Fecha:** 25–29 de mayo de 2026 (aprox.)
-**Materia:** Bases de datos no relacionales
+**Fecha:** 14 de mayo de 2026  
+**Materia:** Bases de datos no relacionales  
 **Tipo:** 📚 Teoría + 🧪 Laboratorio
 
 ---

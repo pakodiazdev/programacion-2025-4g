@@ -4,8 +4,8 @@
 
 # Clase 22 — DML en MySQL: INSERT, SELECT con filtros
 
-**Fecha:** 6-mayo-2026 (aprox., May 1 y May 5 son suspensiones)
-**Materia:** Bases de datos relacionales
+**Fecha:** 6-mayo-2026 (aprox., May 1 y May 5 son suspensiones)  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 📚 Teoría + 🧪 LAB
 
 ---

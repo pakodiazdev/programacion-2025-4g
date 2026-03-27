@@ -4,8 +4,8 @@
 
 # Clase 25 — Práctica integradora SQL: BD completa del proyecto
 
-**Fecha:** 19–22 de mayo de 2026 (aprox.)
-**Materia:** Bases de datos relacionales
+**Fecha:** 13 de mayo de 2026  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 🧪 Laboratorio
 
 ---

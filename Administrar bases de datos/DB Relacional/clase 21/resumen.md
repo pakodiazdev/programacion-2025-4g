@@ -4,8 +4,8 @@
 
 # Clase 21 — DDL en MySQL: CREATE TABLE y constraints
 
-**Fecha:** 29-abril-2026 (aprox.)
-**Materia:** Bases de datos relacionales
+**Fecha:** 29-abril-2026 (aprox.)  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 📚 Teoría + 🧪 LAB
 
 ---

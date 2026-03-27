@@ -1,5 +1,11 @@
-# 📘 Tarea de investigación  
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) 
+
+---
+
+# 📘 Tarea de investigación  (Base de datos relacionales)
 ## Introducción a MySQL y lenguaje SQL
+
+> [🏠 Trabajo de Investigación de Base de dato NO relacionales](../../../Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2006/investigacion.md)
 
 ---
 
@@ -188,3 +194,5 @@ Escribe:
 30. ¿Qué significa CRUD?
 
 ---
+
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) 

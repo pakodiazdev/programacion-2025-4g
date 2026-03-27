@@ -4,7 +4,7 @@
 
 # Clase 18 — Arrays asociativos y JSON en PHP
 
-**Fecha:** 23-abril-2026
+**Fecha:** 23-abril-2026  
 **Materia:** Bases de datos relacionales
 
 ---
@@ -245,22 +245,32 @@ echo $json;
 
 ```mermaid
 graph LR
-    A["Array asociativo PHP\n['nombre'=>'Ana','edad'=>17]"]
-    B["JSON\n{\"nombre\":\"Ana\",\"edad\":17}"]
-    C["Fila de tabla MySQL\nnombre='Ana', edad=17"]
-    D["Documento MongoDB\n{_id:..., nombre:'Ana', edad:17}"]
-
-    A <-->|json_encode / json_decode| B
-    A <-->|mysqli_fetch_assoc| C
-    B <-->|mismo formato| D
+    A["Array asociativo PHP"] <-->|json_encode / json_decode| B["JSON"]
+    A <-->|mysqli_fetch_assoc| C["Fila MySQL"]
+    B <-->|mismo formato| D["Documento MongoDB"]
 ```
 
-- **A (PHP array asociativo):** lo que mantienes en memoria en PHP
-- **C (MySQL):** cómo se almacenan los datos en la base de datos
-- **B (JSON):** cómo se intercambian los datos por la red o entre sistemas
-- **D (MongoDB):** cómo MongoDB almacena datos (idéntico a JSON)
+- **A — Array asociativo PHP:** lo que mantienes en memoria en PHP
+  ```php
+  ["nombre" => "Ana", "edad" => 17]
+  ```
 
-Todas estos formatos representan lo **mismo**, solo con diferentes "ropajes".
+- **B — JSON:** cómo se intercambian los datos por la red o entre sistemas
+  ```json
+  { "nombre": "Ana", "edad": 17 }
+  ```
+
+- **C — Fila MySQL:** cómo se almacenan los datos en la base de datos
+  ```sql
+  nombre = 'Ana', edad = 17
+  ```
+
+- **D — Documento MongoDB:** cómo MongoDB almacena datos (idéntico a JSON)
+  ```json
+  { "_id": "...", "nombre": "Ana", "edad": 17 }
+  ```
+
+Todos estos formatos representan lo **mismo**, solo con diferentes "ropajes".
 
 ---
 

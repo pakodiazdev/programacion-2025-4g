@@ -4,8 +4,8 @@
 
 # Clase 14 — ¿Qué es NoSQL? Tipos de bases de datos y MongoDB
 
-**Fecha:** 28-abril-2026 (aprox.)
-**Materia:** Bases de datos NO relacionales
+**Fecha:** 28-abril-2026 (aprox.)  
+**Materia:** Bases de datos NO relacionales  
 **Tipo:** 📚 Teoría
 
 ---

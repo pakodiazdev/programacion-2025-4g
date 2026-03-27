@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 05](../clase%2005/resumen.md) · Clase 06 · [Clase 07 →](../clase%2007/resumen.md) ➡️ · 🧪 [Ejercicios 06](ejercicios.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 05](../clase%2005/resumen.md) · Clase 06 · [Clase 07 →](../clase%2007/resumen.md) ➡️ · 🧪 [Ejercicios 06](ejercicios.md) · 🏠 [Investigación](investigacion.md) 
 
 ---
 # Clase 06 Operadores lógicos, operador `||` or y `!` not

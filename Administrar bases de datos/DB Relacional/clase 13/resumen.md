@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) · 🧪 [Ejercicios](ejercicios.md) · [Clase 14 →](../clase%2014/resumen.md) ➡️
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) · Clase 13 · [Clase 14 →](../clase%2014/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)
 
 ---
 # Clase 13 - if / else if / else, while e introducción práctica a MySQL
@@ -609,4 +609,4 @@ Además, se dio el primer paso práctico en entorno relacional administrando MyS
 
 ---
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) · 🧪 [Ejercicios](ejercicios.md) · [Clase 14 →](../clase%2014/resumen.md) ➡️
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 12](../clase%2012/resumen.md) · Clase 13 · [Clase 14 →](../clase%2014/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)

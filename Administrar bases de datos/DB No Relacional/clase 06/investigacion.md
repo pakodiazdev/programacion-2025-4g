@@ -1,6 +1,9 @@
-# 📘 Tarea de investigación  
+🏠 [← README](../../../README.md) · [Clase 06 →](../clase%2006/resumen.md) ➡️ 
+
+# 📘 Tarea de investigación (Base de datos NO relacionales)
 ## Estructuras de repetición y manejo de datos en JavaScript
 
+> [🏠 Trabajo de Investigación de Base de dato relacionales](../../../Administrar%20bases%20de%20datos/DB%20Relacional/clase%2012/investigacion.md)
 ---
 
 # 🎯 Objetivo
@@ -132,3 +135,5 @@ Esta investigación:
 20. ¿Qué es un objeto en JavaScript?
 
 ---
+
+🏠 [← README](../../../README.md) · [Clase 06 →](../clase%2006/resumen.md) ➡️ 

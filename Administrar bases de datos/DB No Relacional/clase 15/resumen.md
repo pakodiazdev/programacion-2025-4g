@@ -4,8 +4,8 @@
 
 # Clase 15 — MongoDB: instalación, mongosh y primeras operaciones
 
-**Fecha:** 29-abril-2026 (aprox.)
-**Materia:** Bases de datos NO relacionales
+**Fecha:** 29-abril-2026 (aprox.)  
+**Materia:** Bases de datos NO relacionales  
 **Tipo:** 📚 Teoría + 🧪 LAB
 
 ---

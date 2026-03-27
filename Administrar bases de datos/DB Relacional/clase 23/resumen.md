@@ -4,8 +4,8 @@
 
 # Clase 23 — UPDATE, DELETE y diseño de la BD del proyecto
 
-**Fecha:** 7-mayo-2026 (aprox.)
-**Materia:** Bases de datos relacionales
+**Fecha:** 7-mayo-2026 (aprox.)  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 📚 Teoría + 🧪 LAB
 
 ---

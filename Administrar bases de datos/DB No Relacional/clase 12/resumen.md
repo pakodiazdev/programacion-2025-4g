@@ -4,7 +4,7 @@
 
 # Clase 12 — Objetos y JSON en JavaScript
 
-**Fecha:** 23-abril-2026
+**Fecha:** 23-abril-2026  
 **Materia:** Bases de datos NO relacionales
 
 ---
@@ -208,20 +208,30 @@ console.log(json);
 
 ```mermaid
 graph LR
-    A["Objeto JS\n{nombre:'Ana', edad:17}"]
-    B["JSON\n{\"nombre\":\"Ana\",\"edad\":17}"]
-    C["Array asociativo PHP\n['nombre'=>'Ana','edad'=>17]"]
-    D["Documento MongoDB\n{_id:..., nombre:'Ana', edad:17}"]
-
-    A <-->|JSON.stringify / JSON.parse| B
-    C <-->|mismo formato de datos| B
-    A <-->|driver MongoDB devuelve esto| D
+    A["Objeto JS"] <-->|JSON.stringify / JSON.parse| B["JSON"]
+    C["Array asociativo PHP"] <-->|mismo formato de datos| B
+    A <-->|driver MongoDB devuelve esto| D["Documento MongoDB"]
 ```
 
-- **A (Objeto JS):** lo que mantienes en memoria en JavaScript
-- **C (Array PHP):** cómo lo viste en PHP (conceptualmente idéntico)
-- **B (JSON):** el formato universal de intercambio (idéntico en PHP y JS)
-- **D (MongoDB):** cómo MongoDB almacena datos (es JSON con `_id`)
+- **A — Objeto JS:** lo que mantienes en memoria en JavaScript
+  ```js
+  { nombre: "Ana", edad: 17 }
+  ```
+
+- **B — JSON:** el formato universal de intercambio de datos
+  ```json
+  { "nombre": "Ana", "edad": 17 }
+  ```
+
+- **C — Array asociativo PHP:** cómo lo viste en PHP (conceptualmente idéntico)
+  ```php
+  ["nombre" => "Ana", "edad" => 17]
+  ```
+
+- **D — Documento MongoDB:** cómo MongoDB almacena datos (es JSON con `_id`)
+  ```json
+  { "_id": "...", "nombre": "Ana", "edad": 17 }
+  ```
 
 Los cuatro representan **lo mismo**, solo con diferentes sintaxis de lenguaje.
 

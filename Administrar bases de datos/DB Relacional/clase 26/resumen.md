@@ -4,8 +4,8 @@
 
 # Clase 26 — Módulos en PHP: `require_once` y estructura del proyecto
 
-**Fecha:** 25–29 de mayo de 2026 (aprox.)
-**Materia:** Bases de datos relacionales
+**Fecha:** 14 de mayo de 2026  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 📚 Teoría + 🧪 Laboratorio
 
 ---

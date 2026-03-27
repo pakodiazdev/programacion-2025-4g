@@ -228,7 +228,7 @@ Resultado esperado:
 
 ---
 
-## Ejercicio 3 [opcinal]
+## Ejercicio 3 [opcional]
 
 Crear un programa que reciba:
 
@@ -241,7 +241,7 @@ y muestre un mensaje como el siguiente:
 
 ---
 
-## Ejercicio 4 [opcinal]
+## Ejercicio 4 [opcional]
 
 Crear un programa que reciba:
 

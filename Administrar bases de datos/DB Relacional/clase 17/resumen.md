@@ -4,7 +4,7 @@
 
 # Clase 17 — Funciones en PHP
 
-**Fecha:** 22-abril-2026
+**Fecha:** 22-abril-2026  
 **Materia:** Bases de datos relacionales
 
 ---

@@ -4,8 +4,8 @@
 
 # Clase 17 — Update y Delete en MongoDB
 
-**Fecha:** 7-mayo-2026 (aprox.)
-**Materia:** Bases de datos NO relacionales
+**Fecha:** 7-mayo-2026 (aprox.)  
+**Materia:** Bases de datos NO relacionales  
 **Tipo:** 📚 Teoría + 🧪 LAB
 
 ---

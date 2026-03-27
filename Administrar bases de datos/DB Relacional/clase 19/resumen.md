@@ -4,8 +4,8 @@
 
 # Clase 19 — Mini-app integradora PHP (sin base de datos)
 
-**Fecha:** 27-abril-2026
-**Materia:** Bases de datos relacionales
+**Fecha:** 27-abril-2026  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 🧪 LAB integrador
 
 ---

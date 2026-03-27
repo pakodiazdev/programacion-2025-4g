@@ -264,8 +264,8 @@ Esto permite correr scripts de PHP desde la terminal.
 
 Durante el laboratorio los alumnos realizaron las siguientes actividades:
 
-1. Ejecutar php.exe --version para verficar la version de PHP
-    El estudiante mediante la consola debe de ubicarse en la carpta `C:\xampp\php`, la ubicacion comun en instalaciones xampp en windows y ejecutar el ejecutable `php.exe` con el flag `--version`
+1. Ejecutar php.exe --version para verificar la version de PHP
+    El estudiante mediante la consola debe de ubicarse en la carpeta `C:\xampp\php`, la ubicacion comun en instalaciones xampp en windows y ejecutar el ejecutable `php.exe` con el flag `--version`
 
     ```cm
     cd C:\xampp\php 

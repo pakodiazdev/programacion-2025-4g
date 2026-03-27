@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · [Clase 06 →](../clase%2006/resumen.md) ➡️
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · Clase 05 · [Clase 06 →](../clase%2006/resumen.md) ➡️
 
 ---
 # Clase 05 Operadores lógicos, operador `&&`   
@@ -204,4 +204,4 @@ Los operadores lógicos permiten construir decisiones más completas y acercarse
 [Ejercicios](ejercicios.md)
 
 
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · [Clase 06 →](../clase%2006/resumen.md) ➡️
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 04](../clase%2004/resumen.md) · Clase 05 · [Clase 06 →](../clase%2006/resumen.md) ➡️

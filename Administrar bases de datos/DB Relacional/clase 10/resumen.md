@@ -1,9 +1,9 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 9](../clase%2009/resumen.md) · 🧪 [Ejercicio](ejercicio.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 09](../clase%2009/resumen.md) · Clase 10 · [Clase 11 →](../clase%2011/resumen.md) ➡️ · 🧪 [Ejercicio](ejercicio.md)
 
 ---
 
 # Clase 10 — Pensamiento lógico, `if / else` y entrada de datos en PHP CLI      
-**Fecha:** 20-marzo-2026
+**Fecha:** 20-marzo-2026  
 **Duración total:** 2 horas  
 **Modalidad:** 1 hr aula + 1 hr laboratorio
 

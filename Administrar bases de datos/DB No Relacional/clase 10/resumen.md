@@ -4,7 +4,7 @@
 
 # Clase 10 — switch/case en JavaScript y GitHub con VSCode
 
-**Fecha:** 17-abril-2026
+**Fecha:** 17-abril-2026  
 **Materia:** Bases de datos NO relacionales
 
 ---

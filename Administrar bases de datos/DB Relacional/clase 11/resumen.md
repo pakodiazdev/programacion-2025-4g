@@ -1,4 +1,4 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · 🧪 [Ejercicios](ejercicios.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · Clase 11 · [Clase 12 →](../clase%2012/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md)
 
 ---
 # Clase 11 Operadores lógicos, operador `&&`   

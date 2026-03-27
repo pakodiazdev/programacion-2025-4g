@@ -4,8 +4,8 @@
 
 # Clase 20 — Modelo Entidad-Relación y tipos de datos MySQL
 
-**Fecha:** 28-abril-2026 (aprox.)
-**Materia:** Bases de datos relacionales
+**Fecha:** 28-abril-2026 (aprox.)  
+**Materia:** Bases de datos relacionales  
 **Tipo:** 📚 Teoría
 
 ---

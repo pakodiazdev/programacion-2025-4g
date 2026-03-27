@@ -4,8 +4,8 @@
 
 # Clase 19 — Práctica integradora MongoDB: colecciones completas del proyecto
 
-**Fecha:** 19–22 de mayo de 2026 (aprox.)
-**Materia:** Bases de datos no relacionales
+**Fecha:** 13 de mayo de 2026  
+**Materia:** Bases de datos no relacionales  
 **Tipo:** 🧪 Laboratorio
 
 ---

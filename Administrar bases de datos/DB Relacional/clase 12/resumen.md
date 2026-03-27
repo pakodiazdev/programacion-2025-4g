@@ -1,10 +1,14 @@
-🏠 [← README](../../../README.md) · ⬅️ [← Clase 10](../clase%2010/resumen.md) · 🧪 [Ejercicios](ejercicios.md)
+🏠 [← README](../../../README.md) · ⬅️ [← Clase 11](../clase%2011/resumen.md) · Clase 12 · [Clase 13 →](../clase%2013/resumen.md) ➡️ · 🧪 [Ejercicios](ejercicios.md) · 🏠 [Investigación](investigacion.md)  
 
 ---
 # Clase 12 Operadores lógicos, operador `||` or y `!` not, Introducción a las bases de datos y evolución histórica  
 
 **Fecha:** 25-marzo-2026  
 **Materia:** Bases de datos relacionales  
+
+---
+
+> 🏠 [Investigación para el 13 de abril](investigacion.md)  
 
 ---
 

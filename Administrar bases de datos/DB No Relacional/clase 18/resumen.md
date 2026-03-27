@@ -4,8 +4,8 @@
 
 # Clase 18 — Modelado en MongoDB: documentos embebidos vs referencias
 
-**Fecha:** 14–18 de mayo de 2026 (aprox.)
-**Materia:** Bases de datos no relacionales
+**Fecha:** 12 de mayo de 2026  
+**Materia:** Bases de datos no relacionales  
 **Tipo:** 📚 Teoría + 🧪 Laboratorio
 
 ---

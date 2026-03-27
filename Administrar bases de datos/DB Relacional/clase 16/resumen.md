@@ -5,7 +5,7 @@
 
 # Clase 16 — switch/case en PHP y GitHub con VSCode
 
-**Fecha:** 17-abril-2026
+**Fecha:** 17-abril-2026  
 **Materia:** Bases de datos relacionales
 
 ---
