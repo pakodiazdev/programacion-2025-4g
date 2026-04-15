@@ -33,6 +33,24 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 | 10 | ROMERO · SANCHEZ | [BDR p219](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-219--diagnóstico-de-señal-wifi) · [BDNR p138](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-138--diagnóstico-de-señal-wifi) | [BDR p242](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-242--conteo-de-positivos-y-negativos) · [BDNR p161](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-161--conteo-de-positivos-y-negativos) |
 | 11 | VELASCO · VELZASCO · VILLANUEVA _(trío)_ | [BDR p221](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-221--nivel-de-consumo-eléctrico) · [BDNR p140](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-140--nivel-de-consumo-eléctrico) | [BDR p245](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-245--serie-fibonacci-básica) · [BDNR p164](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-164--serie-fibonacci-básica) |
 
+> BDR Clase 14 (14-abr-2026) — Práctica colaborativa en servidor remoto  
+> Prácticas (todos los equipos): [p293](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-293--ingresar-datos-personales-en-la-base-de-datos-del-servidor-remoto) · [p247](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-247--conexión-al-servidor-remoto-y-creación-de-base-de-datos-del-equipo) · [p295](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-295--crear-tabla-en-la-base-de-datos-del-equipo) · [p296](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-296--insertar-y-consultar-registros)  
+> Prácticas `for` (una por equipo): [p297](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-297--tabla-de-multiplicar) · [p298](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-298--suma-acumulada) · [p299](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-299--conteo-regresivo-con-paso) · [p300](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-300--números-pares-en-rango) · [p301](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-301--serie-de-potencias) · [p302](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-302--factorial) · [p303](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-303--números-impares) · [p304](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-304--promedio-de-calificaciones) · [p305](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-305--contador-de-dígitos) · [p306](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-306--suma-de-múltiplos) · [p307](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-307--pirámide-de-números)
+
+| Equipo | Integrantes | Base de datos |
+|--------|-------------|---------------|
+| 1  | ALCANTAR · VELASCO | `alcantar_velasco` |
+| 2  | BALANDRAN · VELZASCO | `balandran_velzasco` |
+| 3  | BARAJAS · CORRALEJO · VILLANUEVA _(trío)_ | `barajas_corralejo_villanueva` |
+| 4  | BLANCARTE · DOMINGUEZ | `blancarte_dominguez` |
+| 5  | FERNANDEZ · GALINDO | `fernandez_galindo` |
+| 6  | GALICIA · HERNANDEZ | `galicia_hernandez` |
+| 7  | IBARRA · JUAREZ | `ibarra_juarez` |
+| 8  | JASSO · MONTES | `jasso_montes` |
+| 9  | MONTIEL · RODRIGUEZ ARRELLANO | `montiel_rodriguez_arrellano` |
+| 10 | MORALES · ROMERO | `morales_romero` |
+| 11 | RODRIGUEZ DIAZ · SANCHEZ | `rodriguez_diaz_sanchez` |
+
 ---
 
 
