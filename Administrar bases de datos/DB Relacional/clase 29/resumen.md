@@ -150,7 +150,10 @@ function editar($conn, $id, $datos, $tabla) {
 
     // Construir SET columna = valor, columna = valor
     $sets = [];
-    foreach ($datos as $columna => $valor) {
+    $columnas = array_keys($datos);
+    for ($i = 0; $i < count($columnas); $i++) {
+        $columna = $columnas[$i];
+        $valor = $datos[$columna];
         $sets[] = $columna . " = '" . $valor . "'";
     }
     $set_clause = implode(", ", $sets);

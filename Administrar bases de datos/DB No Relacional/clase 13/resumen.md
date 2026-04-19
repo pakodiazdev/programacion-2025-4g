@@ -281,7 +281,7 @@ node app.js
 |----------|-----|-----------|
 | **Array asociativo** | `$arr = ['nombre' => 'Ana']` | `obj = {nombre: 'Ana'}` |
 | **Acceso a propiedad** | `$arr['nombre']` | `obj.nombre` o `obj['nombre']` |
-| **Foreach** | `foreach ($arr as $val)` | `for (const val of arr)` |
+| **For** | `for ($i = 0; $i < count($arr); $i++)` | `for (let i = 0; i < arr.length; i++)` |
 | **Pasar por referencia** | `function foo(&$arr)` | Automático (objetos/arrays) |
 | **Operación asincrónica** | Callback/Promesa | `async/await` |
 | **Leer consola** | `readline()` | `require('./libs/readline')` |

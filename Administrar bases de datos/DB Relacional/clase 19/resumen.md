@@ -62,7 +62,8 @@ Toma el array por **referencia** (`&$tareas`), lo que permite que la función mo
 function agregarTarea(&$tareas, $descripcion) {
     // Calcular el siguiente ID (número más alto + 1)
     $max_id = 0;
-    foreach ($tareas as $tarea) {
+    for ($i = 0; $i < count($tareas); $i++) {
+        $tarea = $tareas[$i];
         if ($tarea['id'] > $max_id) {
             $max_id = $tarea['id'];
         }
@@ -98,7 +99,8 @@ function verTareas($tareas) {
     }
 
     echo "\n--- TAREAS ---\n";
-    foreach ($tareas as $tarea) {
+    for ($i = 0; $i < count($tareas); $i++) {
+        $tarea = $tareas[$i];
         $estado = $tarea['completada'] ? '✓' : '○';
         echo "[$estado] ID {$tarea['id']}: {$tarea['descripcion']}\n";
     }
@@ -114,9 +116,9 @@ Busca una tarea por ID y marca como completada (requiere referencia):
 <?php
 
 function marcarCompletada(&$tareas, $id) {
-    foreach ($tareas as &$tarea) {
-        if ($tarea['id'] == $id) {
-            $tarea['completada'] = true;
+    for ($i = 0; $i < count($tareas); $i++) {
+        if ($tareas[$i]['id'] == $id) {
+            $tareas[$i]['completada'] = true;
             echo "✓ Tarea $id marcada como completada.\n";
             return;
         }
@@ -136,7 +138,8 @@ function marcarCompletada(&$tareas, $id) {
 
 function agregarTarea(&$tareas, $descripcion) {
     $max_id = 0;
-    foreach ($tareas as $tarea) {
+    for ($i = 0; $i < count($tareas); $i++) {
+        $tarea = $tareas[$i];
         if ($tarea['id'] > $max_id) {
             $max_id = $tarea['id'];
         }
@@ -160,7 +163,8 @@ function verTareas($tareas) {
     }
 
     echo "\n--- TAREAS ---\n";
-    foreach ($tareas as $tarea) {
+    for ($i = 0; $i < count($tareas); $i++) {
+        $tarea = $tareas[$i];
         $estado = $tarea['completada'] ? '✓' : '○';
         echo "[$estado] ID {$tarea['id']}: {$tarea['descripcion']}\n";
     }
@@ -168,9 +172,9 @@ function verTareas($tareas) {
 }
 
 function marcarCompletada(&$tareas, $id) {
-    foreach ($tareas as &$tarea) {
-        if ($tarea['id'] == $id) {
-            $tarea['completada'] = true;
+    for ($i = 0; $i < count($tareas); $i++) {
+        if ($tareas[$i]['id'] == $id) {
+            $tareas[$i]['completada'] = true;
             echo "✓ Tarea $id marcada como completada.\n";
             return;
         }
@@ -272,7 +276,7 @@ flowchart TD
 Hoy construiste tu **primera aplicación completa**. Todo lo que aprendiste hasta ahora converge aquí:
 
 - **Variables y tipos de datos** → los campos de cada tarea
-- **Arrays y foreach** → almacenar y recorrer tareas
+- **Arrays y for** → almacenar y recorrer tareas
 - **Switch/case** → menú de opciones
 - **Funciones** → modularidad y reutilización
 - **Referencias (`&`)** → pasar datos que pueden cambiar

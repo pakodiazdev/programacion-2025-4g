@@ -63,7 +63,7 @@ $producto['stock'] = $producto['stock'] - 1;
 $producto['descuento'] = 10;
 ```
 
-## Recorrer con foreach
+## Recorrer con for
 
 ```php
 <?php
@@ -75,7 +75,12 @@ $producto = [
     'disponible' => true,
 ];
 
-foreach ($producto as $clave => $valor) {
+// Para recorrer un array asociativo con for, primero obtenemos las claves
+$claves = array_keys($producto);
+
+for ($i = 0; $i < count($claves); $i++) {
+    $clave = $claves[$i];
+    $valor = $producto[$clave];
     echo $clave . ": " . $valor . "\n";
 }
 
@@ -103,11 +108,6 @@ $alumnos = [
 
 for ($i = 0; $i < count($alumnos); $i++) {
     echo $alumnos[$i]['nombre'] . ": " . $alumnos[$i]['promedio'] . "\n";
-}
-
-// O con foreach (más elegante):
-foreach ($alumnos as $alumno) {
-    echo $alumno['nombre'] . ": " . $alumno['promedio'] . "\n";
 }
 
 // Salida:

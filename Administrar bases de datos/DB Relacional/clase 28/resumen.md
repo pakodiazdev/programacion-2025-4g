@@ -161,7 +161,10 @@ function listar($conn, $tabla) {
 
     // Recorrer y mostrar cada fila
     while ($row = $result->fetch_assoc()) {
-        foreach ($row as $columna => $valor) {
+        $columnas = array_keys($row);
+        for ($i = 0; $i < count($columnas); $i++) {
+            $columna = $columnas[$i];
+            $valor = $row[$columna];
             echo $columna . ": " . $valor . "\n";
         }
         echo "---\n";
