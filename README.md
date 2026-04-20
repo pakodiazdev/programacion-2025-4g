@@ -14,59 +14,25 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 
 ## 👥 Prácticas 
 
-> Registro de equipos formados por práctica. **No se puede repetir pareja** en actividades futuras para fomentar la colaboración con distintos compañeros.  
-> Consultar esta tabla antes de asignar nuevos equipos.
->
-> BDR Clase 13 · BDNR Clase 07 (13-abr-2026)
+### BDR Clase 17 (22-abr-2026) — Nuevos equipos (sin repetir compañero)
 
-| Equipo | Integrantes | Prácticas A | Prácticas B |
-|--------|-------------|-------------|-------------|
-| 1 | ALCANTAR · BALANDRAN | [BDR p201](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-201--tarifa-de-transporte-por-zona) · [BDNR p120](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-120--tarifa-de-transporte-por-zona) | [BDR p224](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-224--suma-de-5-ventas) · [BDNR p143](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-143--suma-de-5-ventas) |
-| 2 | BARAJAS · BLANCARTE | [BDR p203](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-203--nivel-de-descuento-por-compra) · [BDNR p122](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-122--nivel-de-descuento-por-compra) | [BDR p226](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-226--conteo-regresivo) · [BDNR p145](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-145--conteo-regresivo) |
-| 3 | CORRALEJO · DOMINGUEZ | [BDR p205](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-205--tipo-de-acceso-por-horario) · [BDNR p124](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-124--tipo-de-acceso-por-horario) | [BDR p228](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-228--suma-de-pares-en-rango) · [BDNR p147](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-147--suma-de-pares-en-rango) |
-| 4 | FERNANDEZ · GALICIA | [BDR p207](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-207--prioridad-de-ticket) · [BDNR p126](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-126--prioridad-de-ticket) | [BDR p230](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-230--captura-hasta-palabra-de-salida) · [BDNR p149](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-149--captura-hasta-palabra-de-salida) |
-| 5 | GALINDO · HERNANDEZ | [BDR p209](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-209--estado-de-inventario) · [BDNR p128](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-128--estado-de-inventario) | [BDR p232](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-232--menú-repetitivo) · [BDNR p151](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-151--menú-repetitivo) |
-| 6 | IBARRA · JASSO | [BDR p211](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-211--estado-del-clima-por-temperatura) · [BDNR p130](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-130--estado-del-clima-por-temperatura) | [BDR p234](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-234--serie-de-cuadrados) · [BDNR p153](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-153--serie-de-cuadrados) |
-| 7 | JUAREZ · MONTES | [BDR p213](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-213--nivel-de-envío-por-distancia) · [BDNR p132](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-132--nivel-de-envío-por-distancia) | [BDR p236](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-236--suma-de-impares) · [BDNR p155](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-155--suma-de-impares) |
-| 8 | MONTIEL · MORALES | [BDR p215](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-215--categoría-de-salario) · [BDNR p134](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-134--categoría-de-salario) | [BDR p238](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-238--menor-de-una-lista) · [BDNR p157](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-157--menor-de-una-lista) |
-| 9 | RODRIGUEZ ARRELLANO · RODRIGUEZ DIAZ | [BDR p217](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-217--tipo-de-suscripción) · [BDNR p136](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-136--tipo-de-suscripción) | [BDR p240](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-240--conversión-de-temperaturas) · [BDNR p159](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-159--conversión-de-temperaturas) |
-| 10 | ROMERO · SANCHEZ | [BDR p219](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-219--diagnóstico-de-señal-wifi) · [BDNR p138](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-138--diagnóstico-de-señal-wifi) | [BDR p242](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-242--conteo-de-positivos-y-negativos) · [BDNR p161](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-161--conteo-de-positivos-y-negativos) |
-| 11 | VELASCO · VELZASCO · VILLANUEVA _(trío)_ | [BDR p221](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-221--nivel-de-consumo-eléctrico) · [BDNR p140](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-140--nivel-de-consumo-eléctrico) | [BDR p245](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2013/ejercicios.md#práctica-245--serie-fibonacci-básica) · [BDNR p164](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2007/ejercicios.md#práctica-164--serie-fibonacci-básica) |
+Regla aplicada usando historial de [equipos.md](./Administrar%20bases%20de%20datos/DB%20Relacional/equipos.md): no repetir parejas de clase 13 y 14.
 
-> BDR Clase 14 (14-abr-2026) — Práctica colaborativa en servidor remoto  
-> Prácticas (todos los equipos): [p293](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-293--ingresar-datos-personales-en-la-base-de-datos-del-servidor-remoto) · [p247](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-247--conexión-al-servidor-remoto-y-creación-de-base-de-datos-del-equipo) · [p295](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-295--crear-tabla-en-la-base-de-datos-del-equipo) · [p296](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-296--insertar-y-consultar-registros)  
-> Prácticas `for` (una por equipo): [p297](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-297--tabla-de-multiplicar) · [p298](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-298--suma-acumulada) · [p299](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-299--conteo-regresivo-con-paso) · [p300](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-300--números-pares-en-rango) · [p301](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-301--serie-de-potencias) · [p302](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-302--factorial) · [p303](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-303--números-impares) · [p304](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-304--promedio-de-calificaciones) · [p305](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-305--contador-de-dígitos) · [p306](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-306--suma-de-múltiplos) · [p307](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2014/ejercicios.md#práctica-307--pirámide-de-números)
+| Equipo | Integrantes | Práctica |
+|-------|-------------|----------|
+| 1 | ALCANTAR · VELZASCO | [p701](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p701) |
+| 2 | BALANDRAN · VELASCO | [p702](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p702) |
+| 3 | BARAJAS · DOMINGUEZ | [p703](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p703) |
+| 4 | BLANCARTE · CORRALEJO | [p704](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p704) |
+| 5 | FERNANDEZ · HERNANDEZ | [p705](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p705) |
+| 6 | GALICIA · GALINDO | [p706](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p706) |
+| 7 | IBARRA · MONTES | [p707](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p707) |
+| 8 | JASSO · JUAREZ | [p708](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p708) |
+| 9 | MONTIEL · SANCHEZ | [p709](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p709) |
+| 10 | MORALES · RODRIGUEZ ARRELLANO | [p710](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p710) |
+| 11 | RODRIGUEZ DIAZ · ROMERO | [p711](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p711) |
+| — | VILLANUEVA _(rotación de apoyo por número impar)_ | [Bloque B](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#bloque-b) |
 
-| Equipo | Integrantes | Base de datos |
-|--------|-------------|---------------|
-| 1  | ALCANTAR · VELASCO | `alcantar_velasco` |
-| 2  | BALANDRAN · VELZASCO | `balandran_velzasco` |
-| 3  | BARAJAS · CORRALEJO · VILLANUEVA _(trío)_ | `barajas_corralejo_villanueva` |
-| 4  | BLANCARTE · DOMINGUEZ | `blancarte_dominguez` |
-| 5  | FERNANDEZ · GALINDO | `fernandez_galindo` |
-| 6  | GALICIA · HERNANDEZ | `galicia_hernandez` |
-| 7  | IBARRA · JUAREZ | `ibarra_juarez` |
-| 8  | JASSO · MONTES | `jasso_montes` |
-| 9  | MONTIEL · RODRIGUEZ ARRELLANO | `montiel_rodriguez_arrellano` |
-| 10 | MORALES · ROMERO | `morales_romero` |
-| 11 | RODRIGUEZ DIAZ · SANCHEZ | `rodriguez_diaz_sanchez` |
-
-> BDNR Clase 10 (17-abr-2026) — Prácticas por equipo con `for`, `switch/case` o `while`  
-> Ejercicios: [clase 10 / ejercicios](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/clase%2010/ejercicios.md)
-
-| Equipo | Integrantes | Práctica asignada |
-|--------|-------------|-------------------|
-| 1 | ALCANTAR · SANCHEZ · VELZASCO _(trío)_ | `p501` |
-| 2 | BALANDRAN · DOMINGUEZ | `p502` |
-| 3 | BARAJAS · HERNANDEZ | `p503` |
-| 4 | BLANCARTE · GALINDO | `p504` |
-| 5 | CORRALEJO · ROMERO | `p505` |
-| 6 | FERNANDEZ · JUAREZ | `p506` |
-| 7 | GALICIA · IBARRA | `p507` |
-| 8 | JASSO · MORALES | `p508` |
-| 9 | MONTES · RODRIGUEZ DIAZ | `p509` |
-| 10 | MONTIEL · VELASCO | `p510` |
-| 11 | RODRIGUEZ ARRELLANO · VILLANUEVA | `p511` |
 
 ---
 
