@@ -14,24 +14,23 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 
 ## 👥 Prácticas 
 
-### BDR Clase 17 (22-abr-2026) — Nuevos equipos (sin repetir compañero)
+### BDR Clase 18 (23-abr-2026) — Arrays asociativos (PHP & JS)
 
-Regla aplicada usando historial de [equipos.md](./Administrar%20bases%20de%20datos/DB%20Relacional/equipos.md): no repetir parejas de clase 13 y 14.
+Equipos formados sin repetir compañero. Historial completo en [equipos.md](./Administrar%20bases%20de%20datos/DB%20Relacional/equipos.md).
 
-| Equipo | Integrantes | Práctica |
-|-------|-------------|----------|
-| 1 | ALCANTAR · VELZASCO | [p701](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p701) |
-| 2 | BALANDRAN · VELASCO | [p702](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p702) |
-| 3 | BARAJAS · DOMINGUEZ | [p703](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p703) |
-| 4 | BLANCARTE · CORRALEJO | [p704](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p704) |
-| 5 | FERNANDEZ · HERNANDEZ | [p705](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p705) |
-| 6 | GALICIA · GALINDO | [p706](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p706) |
-| 7 | IBARRA · MONTES | [p707](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p707) |
-| 8 | JASSO · JUAREZ | [p708](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p708) |
-| 9 | MONTIEL · SANCHEZ | [p709](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p709) |
-| 10 | MORALES · RODRIGUEZ ARRELLANO | [p710](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p710) |
-| 11 | RODRIGUEZ DIAZ · ROMERO | [p711](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#p711) |
-| — | VILLANUEVA _(rotación de apoyo por número impar)_ | [Bloque B](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2017/ejercicios.md#bloque-b) |
+| Equipo | Integrantes | Entidad | Práctica |
+|--------|-------------|---------|----------|
+| 1  | ALCANTAR · ROMERO | Libros | [p801](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p801) |
+| 2  | BALANDRAN · JASSO | Películas | [p802](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p802) |
+| 3  | BARAJAS · VELASCO | Videojuegos | [p803](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p803) |
+| 4  | BLANCARTE · MONTES | Superhéroes | [p804](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p804) |
+| 5  | CORRALEJO · IBARRA | Países | [p805](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p805) |
+| 6  | DOMINGUEZ · VELZASCO | Animales | [p806](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p806) |
+| 7  | FERNANDEZ · RODRIGUEZ ARRELLANO | Planetas | [p807](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p807) |
+| 8  | GALICIA · MORALES | Recetas | [p808](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p808) |
+| 9  | HERNANDEZ · JUAREZ | Canciones | [p809](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p809) |
+| 10 | MONTIEL · RODRIGUEZ DIAZ | Autos | [p810](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p810) |
+| 11 | GALINDO · SANCHEZ · VILLANUEVA _(trío)_ | Deportistas | [p811](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p811) |
 
 
 ---

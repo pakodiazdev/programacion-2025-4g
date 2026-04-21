@@ -1,4 +1,23 @@
 
+> BDR Clase 18 (23-abr-2026) — Arrays asociativos PHP & JS  
+> Regla aplicada: no repetir compañero de rondas anteriores (clase 13, 14, 17 y BDNR clase 10).
+
+| Equipo | Integrantes | Entidad | Práctica |
+|--------|-------------|---------|----------|
+| 1  | ALCANTAR · ROMERO | Libros | [p801](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p801) |
+| 2  | BALANDRAN · JASSO | Películas | [p802](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p802) |
+| 3  | BARAJAS · VELASCO | Videojuegos | [p803](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p803) |
+| 4  | BLANCARTE · MONTES | Superhéroes | [p804](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p804) |
+| 5  | CORRALEJO · IBARRA | Países | [p805](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p805) |
+| 6  | DOMINGUEZ · VELZASCO | Animales | [p806](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p806) |
+| 7  | FERNANDEZ · RODRIGUEZ ARRELLANO | Planetas | [p807](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p807) |
+| 8  | GALICIA · MORALES | Recetas | [p808](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p808) |
+| 9  | HERNANDEZ · JUAREZ | Canciones | [p809](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p809) |
+| 10 | MONTIEL · RODRIGUEZ DIAZ | Autos | [p810](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p810) |
+| 11 | GALINDO · SANCHEZ · VILLANUEVA _(trío)_ | Deportistas | [p811](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p811) |
+
+---
+
 > BDR Clase 17 (22-abr-2026) — Repaso de estructuras + funciones (parejas)  
 > Regla aplicada: no repetir compañero respecto a registros previos (clase 13 y 14).  
 > Nota: hay 23 alumnos en lista; se forman 11 parejas y 1 alumno queda en rotación de apoyo por número impar.
