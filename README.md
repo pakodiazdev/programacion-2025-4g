@@ -14,23 +14,23 @@ En este repositorio colocaré el plan de clase para las clases impartidas a mi g
 
 ## 👥 Prácticas 
 
-### BDR Clase 18 (23-abr-2026) — Arrays asociativos (PHP & JS)
+Las asignaciones de equipos por práctica se mantienen en:
 
-Equipos formados sin repetir compañero. Historial completo en [equipos.md](./Administrar%20bases%20de%20datos/DB%20Relacional/equipos.md).
+- [BDR equipos](./Administrar%20bases%20de%20datos/DB%20Relacional/equipos.md)
+- [BDNR equipos](./Administrar%20bases%20de%20datos/DB%20No%20Relacional/equipos.md)
 
-| Equipo | Integrantes | Entidad | Práctica |
-|--------|-------------|---------|----------|
-| 1  | ALCANTAR · ROMERO | Libros | [p801](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p801) |
-| 2  | BALANDRAN · JASSO | Películas | [p802](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p802) |
-| 3  | BARAJAS · VELASCO | Videojuegos | [p803](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p803) |
-| 4  | BLANCARTE · MONTES | Superhéroes | [p804](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p804) |
-| 5  | CORRALEJO · IBARRA | Países | [p805](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p805) |
-| 6  | DOMINGUEZ · VELZASCO | Animales | [p806](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p806) |
-| 7  | FERNANDEZ · RODRIGUEZ ARRELLANO | Planetas | [p807](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p807) |
-| 8  | GALICIA · MORALES | Recetas | [p808](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p808) |
-| 9  | HERNANDEZ · JUAREZ | Canciones | [p809](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p809) |
-| 10 | MONTIEL · RODRIGUEZ DIAZ | Autos | [p810](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p810) |
-| 11 | GALINDO · SANCHEZ · VILLANUEVA _(trío)_ | Deportistas | [p811](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2018/ejercicios.md#p811) |
+### BDR Clase 19 (27-abr-2026) — Mini-app integradora por equipos
+
+| Equipo | Integrantes | Práctica asignada | Referencia |
+|--------|-------------|-------------------|------------|
+| 1 | BARAJAS · FERNANDEZ · MONTES · SANCHEZ | [P901 - Catalogo de peliculas](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/ejercicios.md#p901) | [Repo tareas](https://github.com/pakodiazdev/tareas) |
+| 2 | DOMINGUEZ · HERNANDEZ · JASSO · RODRIGUEZ ARRELLANO | [P902 - Directorio telefonico](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/ejercicios.md#p902) | [Repo tareas](https://github.com/pakodiazdev/tareas) |
+| 3 | ALCANTAR · CORRALEJO · GALICIA · MONTIEL | [P903 - Lista de canciones](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/ejercicios.md#p903) | [Repo tareas](https://github.com/pakodiazdev/tareas) |
+| 4 | IBARRA · MORALES · RODRIGUEZ DIAZ · VELASCO | [P904 - Inventario de herramientas](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/ejercicios.md#p904) | [Repo tareas](https://github.com/pakodiazdev/tareas) |
+| 5 | BALANDRAN · BLANCARTE · ROMERO · VILLANUEVA | [P905 - Lista de videojuegos](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/ejercicios.md#p905) | [Repo tareas](https://github.com/pakodiazdev/tareas) |
+| 6 | GALINDO · JUAREZ · VELZASCO | [P906 - Lista de autos](./Administrar%20bases%20de%20datos/DB%20Relacional/clase%2019/ejercicios.md#p906) | [Repo tareas](https://github.com/pakodiazdev/tareas) |
+
+Nota de referencia para todos los equipos: del repo [https://github.com/pakodiazdev/tareas](https://github.com/pakodiazdev/tareas) solo se permite copiar las funciones `centrar` y `titulo`; el resto de funciones se usa unicamente como referencia.
 
 
 ---

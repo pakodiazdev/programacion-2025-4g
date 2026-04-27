@@ -1,3 +1,17 @@
+> BDR Clase 19 (27-abr-2026) — Mini-app integradora (equipos)
+> Regla aplicada: 5 equipos de 4 y 1 equipo de 3, evitando repetir compañeros de clase 13, 14, 17, 18 y BDNR clase 10.
+> Nota: esta distribución cubre a los 23 alumnos, sin rotación en esta sesión.
+
+| Equipo | Integrantes |
+|--------|-------------|
+| 1 | BARAJAS · FERNANDEZ · MONTES · SANCHEZ |
+| 2 | DOMINGUEZ · HERNANDEZ · JASSO · RODRIGUEZ ARRELLANO |
+| 3 | ALCANTAR · CORRALEJO · GALICIA · MONTIEL |
+| 4 | IBARRA · MORALES · RODRIGUEZ DIAZ · VELASCO |
+| 5 | BALANDRAN · BLANCARTE · ROMERO · VILLANUEVA |
+| 6 | GALINDO · JUAREZ · VELZASCO |
+
+---
 
 > BDR Clase 18 (23-abr-2026) — Arrays asociativos PHP & JS  
 > Regla aplicada: no repetir compañero de rondas anteriores (clase 13, 14, 17 y BDNR clase 10).
