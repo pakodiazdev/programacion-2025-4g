@@ -53,6 +53,41 @@ Estás conectado a MongoDB. El nombre `test>` significa que estás en la base de
 
 ---
 
+# 🌐 Parte 2b: Conectarse a un servidor remoto con mongosh
+
+Así como en MySQL usamos `-h` para especificar el host, en mongosh puedes conectarte a un servidor remoto con una **cadena de conexión URI**:
+
+## Sintaxis general
+
+```bash
+mongosh "mongodb://usuario:password@host:puerto/basededatos"
+```
+
+## Conectarse al servidor de la clase
+
+```bash
+mongosh "mongodb://alumno:Cetis123!@18.215.180.117:27017/4g"
+```
+
+Verás el prompt:
+
+```
+4g>
+```
+
+Eso significa que ya estás dentro de la base de datos `4g` del servidor remoto.
+
+## Comparativa: local vs remoto
+
+| Situación | Comando |
+|-----------|---------|
+| MongoDB local (tu máquina) | `mongosh` |
+| MongoDB remoto con credenciales | `mongosh "mongodb://usuario:password@host:27017/bd"` |
+
+> Una vez conectado (local o remoto), todos los comandos son iguales: `show collections`, `insertOne`, `find`, etc. La diferencia es solo en cómo te conectas.
+
+---
+
 # 🔍 Parte 3: Comandos básicos de navegación
 
 ```bash
