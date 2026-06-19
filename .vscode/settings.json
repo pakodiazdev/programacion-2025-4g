@@ -1,4 +1,14 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": false
 }
